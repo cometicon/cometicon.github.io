@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Nicolas Comte, PhD Student"
+title                    : "Nicolas Comte"
 title_separator          : "-"
 name                     : &name "Nicolas Comte"
 description              : &description "PhD Sudent, Engineer from INSA Lyon"
@@ -83,7 +83,7 @@ author:
   name             : "Nicolas Comte"
   avatar           : "profile.png"
   bio              : "French PhD student in computer sciences. I'm currently working on 3D spine reconstruction from superficial analysis of the torso."
-  location         : "Location"
+  location         : "Grenoble, France"
   employer         : "Anatoscope; Inria"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"
