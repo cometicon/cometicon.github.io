@@ -21,6 +21,15 @@ I worked in molecular phylogeny and artificial evolution projects with the Inria
 
 ![Beagle Studies](/images/beagle_studies.png)
 
-### Interests
+# Publications
+    <div align="center">
+      <a href="https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" alt="Google scholar" width="50" height="50" >
+      </a>
+    </div>
+    
+
+# Interests
 - Drawing and digital painting: [here](https://www.instagram.com/cometicon.draws/)
 - Nature photography: [here](https://www.instagram.com/cometicon.shots/)
+- Scientific communication and mediation
+- Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
