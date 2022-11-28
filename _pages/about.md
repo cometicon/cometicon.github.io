@@ -22,10 +22,10 @@ I worked in molecular phylogeny and artificial evolution projects with the Inria
 ![Beagle Studies](/images/beagle_studies.png)
 
 # Publications
-    <div align="center">
-      <a href="https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" alt="Google scholar" width="50" height="50" >
-      </a>
-    </div>
+<div align="center">
+  <a href="https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" alt="Google scholar" width="50" height="50" >
+  </a>
+</div>
     
 
 # Interests
