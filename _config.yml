@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Nicolas Comte"
 title_separator          : "-"
 name                     : &name "Nicolas Comte"
-description              : &description "PhD Sudent at Inria, Anatoscope"
+description              : &description "PhD Sudent at Inria and Anatoscope"
 url                      : https://cometicon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cometicon/cometicon.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "French PhD student in computer sciences at Inria (team Morpheo) and Anatoscope"
   location         : "Grenoble, France"
-  employer         : "Anatoscope; Inria"
+  employer         : "Anatoscope ; Inria"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"
   email            : "nicolas.comte@inria.fr"
@@ -93,13 +93,13 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "cometicon"
+  flickr           : #"cometicon"
   facebook         :
   foursquare       :
-  github           : "cometicon"
+  github           : #"cometicon"
   google_plus      :
   keybase          :
-  instagram        : "cometicon.draws"
+  instagram        : #"cometicon.draws"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "nicolascomte"
