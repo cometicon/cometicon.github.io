@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my curriculum vitae (.pdf) ![here](/files/ncomte_resume_2022.pdf)
+
+
 Education
 ======
 * Bachelor degree in Bioinformatics at Université de Lyon, 2013
