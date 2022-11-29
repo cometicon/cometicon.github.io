@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my curriculum vitae (.pdf) ![here](/files/ncomte_resume_2022.pdf)
+Please find my curriculum vitae (.pdf) [here](/files/ncomte_resume_2022.pdf)
 
 
 Education
@@ -34,9 +34,10 @@ Work experience
 Skills
 ======
 * Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
-* Scientific computing R, Matlab, Python:
+* Scientific computing: R, Matlab, Python, Sofa:
   * Statistics and mathematical modeling
   * Machine learning
+  * Computer vision, computer graphics
 * Communication: LaTeX, Gimp, Krita, Inkscape
 
 
