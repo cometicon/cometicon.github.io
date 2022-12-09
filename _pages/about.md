@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website !
 
 # Current scientific work
-I'm currently PhD student at [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and [Anatoscope](https://www.anatoscope.com/). My project is under the supervision of Sergi Pujades (Inria), jean-Sebastien Franco (Inria), François Faure (Anatoscope) and Aurélien Courvoisier (Grenoble Hospital). I'm working on the characterization of the spine with scoliosis from superficial analysis of the trunc.
+I'm currently PhD student at [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and [Anatoscope](https://www.anatoscope.com/). My project is under the supervision of Sergi Pujades (Inria, UGA), Jean-Sebastien Franco (Inria, UGA), François Faure (Anatoscope) and Aurélien Courvoisier (Grenoble Hospital). I'm working on the characterization of the spine with scoliosis from superficial analysis of the trunc.
 
 ![Scoliosis Studies](/images/scoliosis_study.png)
 
