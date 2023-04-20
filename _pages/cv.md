@@ -14,9 +14,9 @@ Please find my curriculum vitae (.pdf) [here](/files/ncomte_resume_2022.pdf)
 
 Education
 ======
-* Bachelor degree in Biology -- Bioinformatics at Université de Lyon, 2013
+* Ph.D in computer science at Université de Grenoble Alpes, (current position)
 * Engineer degree in Bioinformatics and modelling at Insa Lyon, 2017
-* Ph.D in computer science at Université de Grenoble, (current position)
+* Bachelor degree in Biology -- Bioinformatics at Université de Lyon, 2013
 
 
 Work experience
