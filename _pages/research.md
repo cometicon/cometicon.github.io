@@ -11,6 +11,8 @@ I'm currently focused on the analysis of adolescent idiopathic scoliosis through
 
 ![Scoliosis Studies](/images/scoliosis_study.png)
 
+These works have been presented in international and national conferences: CMBBE 2023 and IABM 2023.
+
 
 ## Adolescent Idiopathic Scoliosis (AIS)
 <p class="flotte">

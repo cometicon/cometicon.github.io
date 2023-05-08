@@ -14,7 +14,7 @@ Welcome to my home page !
 I'm currently PhD student at [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and [Anatoscope](https://www.anatoscope.com/). My project is under the supervision of Sergi Pujades (Inria, UGA), Edmond Boyer (Inria, UGA), Jean-Sebastien Franco (Inria, UGA), François Faure (Anatoscope) and Aurélien Courvoisier (TIMC, Grenoble Hospital).
 
 # Current scientific work
-My work involves the creation of digital twins of patients with adolescent idiopathic scoliosis. The idea is to be able to characterize the 3D deformations of the spine from a superficial analysis. I also worked on the verterbal column dynamics from a motion capture analysis.
+My work involves the creation of digital twins of patients with adolescent idiopathic scoliosis. The idea is to be able to characterize the 3D deformations of the spine from a superficial analysis. I also worked on the vertebral column dynamics from a motion capture analysis.
 
 ![Scoliosis Studies](/images/scoliosis_study.png)
 
