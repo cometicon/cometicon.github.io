@@ -14,7 +14,7 @@ Welcome to my home page !
 I'm currently PhD student at [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and [Anatoscope](https://www.anatoscope.com/). My project is under the supervision of Sergi Pujades (Inria, UGA), Edmond Boyer (Inria, UGA), Jean-Sebastien Franco (Inria, UGA), François Faure (Anatoscope) and Aurélien Courvoisier (TIMC, Grenoble Hospital).
 
 # Current scientific work
-My work involves the creation of digital twins of patients with adolescent idiopathic scoliosis. The idea is to be able to characterize the 3D deformations of the spine from a superficial analysis. I also worked on the vertebral column dynamics from a motion capture analysis.
+My work involves the creation of digital twins of patients with adolescent idiopathic scoliosis. The idea is to characterize the 3D deformations of the spine from a superficial analysis of the back. I also worked on the spine dynamic reconstruction from a motion capture analysis. You can find details about the published works in the section [*Research*](/research/).
 
 ![Scoliosis Studies](/images/scoliosis_study.png)
 
@@ -25,15 +25,8 @@ I worked in molecular phylogeny and artificial evolution projects with the Inria
 ![Beagle Studies](/images/beagle_studies.png)
 
 
-# Publications
-<div align="center">
-  <a href="https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" alt="Google scholar" width="50" height="50" >
-  </a>
-</div>
-    
-
-# Interests
-- Drawing and digital painting: [here](https://www.instagram.com/cometicon.draws/)
+# Other interests
 - Nature photography: [here](https://www.instagram.com/cometicon.shots/)
+- Drawing and digital painting: [here](https://www.instagram.com/cometicon.draws/)
 - Scientific communication and mediation
 - Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
