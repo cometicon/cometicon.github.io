@@ -29,7 +29,7 @@ author_profile: true
 
 ## Older works - Molecular Phylogeny/Artificial life
 ### Journal/Book papers
-* Gouy, M., Tannier, E., Comte, N., & Parsons, D. P. (2020). Seaview Version 5: A Multiplatform Software for Multiple Sequence Alignment, Molecular Phylogenetic Analyses, and Tree Reconciliation. In Methods in Molecular Biology (pp. 241–260). Springer US. [https://doi.org/10.1007/978-1-0716-1036-7_15] (https://doi.org/10.1007/978-1-0716-1036-7_15)
+* Gouy, M., Tannier, E., Comte, N., & Parsons, D. P. (2020). Seaview Version 5: A Multiplatform Software for Multiple Sequence Alignment, Molecular Phylogenetic Analyses, and Tree Reconciliation. In Methods in Molecular Biology (pp. 241–260). Springer US. [https://doi.org/10.1007/978-1-0716-1036-7_15](https://doi.org/10.1007/978-1-0716-1036-7_15)
 * Comte, N., Morel, B., Hasić, D., Guéguen, L., Boussau, B., Daubin, V., Penel, S., Scornavacca, C., Gouy, M., Stamatakis, A., Tannier, E., & Parsons, D. P. (2020). Treerecs: an integrated phylogenetic tool, from sequences to reconciliations. In Y. Ponty (Ed.), Bioinformatics (Vol. 36, Issue 18, pp. 4822–4824). Oxford University Press (OUP). [https://doi.org/10.1093/bioinformatics/btaa615](https://doi.org/10.1093/bioinformatics/btaa615)
 * Duchemin, W., Gence, G., Arigon Chifolleau, A.-M., Arvestad, L., Bansal, M. S., Berry, V., Boussau, B., Chevenet, F., Comte, N., Davín, A. A., Dessimoz, C., Dylus, D., Hasic, D., Mallo, D., Planel, R., Posada, D., Scornavacca, C., Szöllősi, G., Zhang, L., … Daubin, V. (2018). RecPhyloXML: a format for reconciled gene trees. In R. Schwartz (Ed.), Bioinformatics (Vol. 34, Issue 21, pp. 3646–3652). Oxford University Press (OUP). [https://doi.org/10.1093/bioinformatics/bty389](https://doi.org/10.1093/bioinformatics/bty389)
 
