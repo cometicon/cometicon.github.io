@@ -25,5 +25,5 @@ An other challenge is to reduce the patient's X-ray exposure during both the dia
 </p>
 
 
-## Communications
-Communications related to my works in the [Communications section](/publications/)
+## Publications/Communications
+Communications related to my works in the [Contributions section](/publications/)
