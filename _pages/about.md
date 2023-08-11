@@ -16,13 +16,13 @@ I'm currently PhD student at [Inria](https://www.inria.fr/fr) (team [Morpheo](ht
 # Current scientific work
 My work involves the creation of digital twins of patients with adolescent idiopathic scoliosis. The idea is to characterize the 3D deformations of the spine from a superficial analysis of the back. I also worked on the spine dynamic reconstruction from a motion capture analysis. You can find details about the published works in the section [*Contributions*](/publications/).
 
-![Scoliosis Studies](/images/scoliosis_study.png)
+![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
 
 # Older works
 I worked in molecular phylogeny and artificial evolution projects with the Inria team [Beagle](https://team.inria.fr/beagle/). Among them, there is [Treerecs](https://project.inria.fr/treerecs/), a software that corrects gene trees with regard to a given species tree. I’ve also been involved in the development of [Seaview 5.0](http://doua.prabi.fr/software/seaview), a multiplatform, graphical user interface for multiple sequence alignment.
 
-![Beagle Studies](/images/beagle_studies.png)
+![Beagle Studies](/images/beagle_studies_smaller.png)
 
 
 # Other interests

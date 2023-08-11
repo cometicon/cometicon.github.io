@@ -9,7 +9,7 @@ The aim of my research is to combine diverse techniques for digitizing the human
 
 I'm currently focused on the analysis of adolescent idiopathic scoliosis through static and dynamic assessments. We employ deep learning techniques for generating a 3D reconstruction of the spine from depthmaps of the back. Additionally, I have investigated the feasibility of reconstructing dynamic spinal trajectories by integrating biomechanics and motion capture.
 
-![Scoliosis Studies](/images/scoliosis_study.png)
+![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
 ## Adolescent Idiopathic Scoliosis (AIS)
 <p class="flotte">
