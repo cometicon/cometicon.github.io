@@ -73,6 +73,6 @@ Scientific mediation
 Interests
 ======
 - Drawing and digital painting: [here](https://www.instagram.com/cometicon.draws/)
-- Nature photography: [here](https://www.instagram.com/cometicon.shots/)
+- Nature photography: [here](https://www.instagram.com/cometicon.snaps/)
 - Scientific communication and mediation
 - Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
