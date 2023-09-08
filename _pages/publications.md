@@ -19,7 +19,7 @@ author_profile: true
 ## Related to my PhD
 ### Journal papers
 * Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). Multi-Modal Data Correspondence for the 4D Analysis of the Spine with Adolescent Idiopathic Scoliosis. In Bioengineering (Vol. 10, Issue 7, p. 874). MDPI AG. [https://doi.org/10.3390/bioengineering10070874](https://doi.org/10.3390/bioengineering10070874).
-* Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). 3D inference of the scoliotic spine from depth maps of the back, *Submitted to* Springer book Lecture Notes in Computational Vision and Biomechanics. [PDF](/files/submission_springer_book_3d_inference_spine_depthmaps.pdf).
+* Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). 3D inference of the scoliotic spine from depth maps of the back, *Submitted to* Springer book Lecture Notes in Computational Vision and Biomechanics. [PDF](/files/3d_inference_spine_depthmaps.pdf).
 
 ### Conference abstracts
 * Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). 3D inference of the scoliotic spine from depthmaps of the back. *Oral presentation*, CMBBE (International Symposium on Computer Methods in Biomechanics and Biomedical Engineering) 2023, Paris, France. [Abstract book](http://www.cmbbe-symposium.com/2023/wp-content/uploads/sites/14/2023/04/CMBBE23_Abstract_book_orals_small.pdf)
