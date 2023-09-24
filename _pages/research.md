@@ -11,6 +11,7 @@ I'm currently focused on the analysis of adolescent idiopathic scoliosis through
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
+
 ## Adolescent Idiopathic Scoliosis (AIS)
 <p class="flotte">
 <img src="/images/duval_beaupere.png" width="400" height="400" align="left" valign="top" hspace=10>
@@ -24,6 +25,11 @@ The main treatment is to stop scoliosis progression with an orthopaedic brace. T
 An other challenge is to reduce the patient's X-ray exposure during both the diagnosis and monitoring of the disease, since frequent exposure increases the risk of cancer development.
 </p>
 
+<em>Figure adapated from the Duval-Beaupere diagram (Duval-Beaupere 1979)</em>
+
 
 ## Publications/Communications
 Communications related to my works in the [Contributions section](/publications/)
+
+## Figures
+I share my figures and drawings (CC-BY-NC-SA license): [here](/drawings/)
