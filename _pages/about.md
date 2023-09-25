@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page !
+Welcome to my personal website !
 
 
 I'm currently PhD student at [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and [Anatoscope](https://www.anatoscope.com/). My project is under the supervision of [Sergi Pujades](http://sergipujades.free.fr/) (Inria, UGA), [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) (Inria, UGA), [Jean-Sebastien Franco](https://morpheo.inrialpes.fr/~franco/) (Inria, UGA), François Faure (Anatoscope) and Aurélien Courvoisier (TIMC, Grenoble Hospital).
@@ -26,7 +26,7 @@ I worked in molecular phylogeny and artificial evolution projects with the Inria
 
 
 # Other interests
-- Nature photography: [instagram](https://www.instagram.com/cometicon.snaps/) or [flickr](https://www.flickr.com/photos/cometicon/)
+- Photography: [instagram](https://www.instagram.com/cometicon.snaps/) or [flickr](https://www.flickr.com/photos/cometicon/)
 - Drawing and digital painting: [here](https://www.instagram.com/cometicon.draws/)
 - Scientific communication and mediation
 - Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
