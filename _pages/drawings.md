@@ -1,6 +1,6 @@
 ---
 permalink: /drawings/
-title: "Drawings"
+title: "PhD drawings"
 ---
 
 I'm providing in this page diverse drawings related to my PhD. These images are shared under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

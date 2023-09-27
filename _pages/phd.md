@@ -1,13 +1,15 @@
 ---
-permalink: /research/
-title: "Current research"
+permalink: /phd/
+title: "My PhD work"
 ---
 
 
-## Summary of my PhD project
-The aim of my research is to combine diverse techniques for digitizing the human body to develop virtual patient avatars. These digital twins are used to identify and examine potential medical issues.
+## Summary of the project
+The aim of my research is to combine diverse techniques for digitizing the human body to develop virtual AIS patient avatars. These digital twins are used to identify and examine potential medical issues.
 
-I'm currently focused on the analysis of adolescent idiopathic scoliosis through static and dynamic assessments. We employ deep learning techniques for generating a 3D reconstruction of the spine from depthmaps of the back. Additionally, I have investigated the feasibility of reconstructing dynamic spinal trajectories by integrating biomechanics and motion capture.
+I'm currently focused on the analysis of adolescent idiopathic scoliosis through static and dynamic assessments. We employ deep learning techniques for generating a 3D reconstruction of the spine from depthmaps of the back.
+
+Additionally, I have investigated the feasibility of reconstructing dynamic spinal trajectories by integrating biomechanics and motion capture.
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
@@ -32,4 +34,4 @@ An other challenge is to reduce the patient's X-ray exposure during both the dia
 Communications related to my works in the [Contributions section](/publications/)
 
 ## Figures
-I share my figures and drawings (CC-BY-NC-SA license): [here](/drawings/)
+I share my figures and drawings [here](/drawings/).

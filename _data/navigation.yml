@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "PhD"
+    url: /phd/
+
   - title: "Contributions"
     url: /publications/
+
+  - title: "Code"
+    url: /code/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -14,15 +20,15 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-  
-  - title: "Research"
-    url: /research/
+
+  #- title: "Other activities"
+  #  url: /other_activities/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Code"
-    url: /code/
+  #- title: "Misc."
+  #  url: /misc/
 
   #- title: "Drawings"
   #  url: /drawings/
