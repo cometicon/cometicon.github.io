@@ -8,7 +8,7 @@ title: "Other activities"
   <img src="/images/combi_drawings.png" alt="Drawings" style="width:100%; margin-bottom: 20px;">
 </div>
 
-Beside my research activity, I drew for diverse institutions or associations. I've also been involved in the creation of illustrations and logos for some scientific and outreach projets:
+Beside my research activity, I drew for diverse institutions or associations. I've been involved in the creation of illustrations and logos for some scientific and outreach projets:
 * [Démesures](https://demesures.jimdo.com/), illustrations
 * [Papiers mâchés](https://papiermachesciences.org/), logo
 * [Igem 2014 Curly'On](https://2014.igem.org/Team:INSA-Lyon), logo, illustrations, videos
