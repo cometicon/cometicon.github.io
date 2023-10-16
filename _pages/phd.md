@@ -7,9 +7,11 @@ title: "My PhD work"
 ## Summary of the project
 The aim of my research is to combine diverse techniques for digitizing the human body to develop virtual AIS patient avatars. These digital twins are used to identify and examine potential medical issues.
 
-I'm currently focused on the analysis of adolescent idiopathic scoliosis through static and dynamic assessments. We employ deep learning techniques for generating a 3D reconstruction of the spine from depthmaps of the back.
+I'm currently focused on the analysis of adolescent idiopathic scoliosis through external static and dynamic assessments.
 
-Additionally, I have investigated the feasibility of reconstructing dynamic spinal trajectories by integrating biomechanics and motion capture.
+In the static aspects, I employ deep learning techniques to generate 3D reconstructions of the spine from depthmaps of the back.
+
+For dynamics, I investigate the feasibility of reconstructing dynamic spinal trajectories by integrating subject-specific kinematic models and motion capture.
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
@@ -17,7 +19,7 @@ Additionally, I have investigated the feasibility of reconstructing dynamic spin
 ## Adolescent Idiopathic Scoliosis (AIS)
 <p class="flotte">
 <img src="/images/duval_beaupere.png" width="400" height="400" align="left" valign="top" hspace=10>
-My work is mainly focused on Adolescent idiopathic scoliosis (AIS). AIS is a complex medical condition characterized by abnormal sideways curvatures of the spine that evolves during the adolescence. 
+My work is mainly focused on Adolescent Idiopathic Scoliosis (AIS). AIS is a complex medical condition characterized by abnormal sideways curvatures of the spine that evolves during the adolescence.
 
 If left untreated, scoliosis can progress and result in breathing difficulties, chronic pain, and other health issues.
 </p>
@@ -27,7 +29,7 @@ The main treatment is to stop scoliosis progression with an orthopaedic brace. T
 An other challenge is to reduce the patient's X-ray exposure during both the diagnosis and monitoring of the disease, since frequent exposure increases the risk of cancer development.
 </p>
 
-<em>Figure adapated from the Duval-Beaupere diagram (Duval-Beaupere 1979)</em>
+<em>Figure adapted from the Duval-Beaupere diagram (Duval-Beaupere 1979)</em>
 
 
 ## Publications/Communications
