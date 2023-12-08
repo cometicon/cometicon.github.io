@@ -11,7 +11,7 @@ I'm currently focused on the analysis of adolescent idiopathic scoliosis through
 
 In the static aspects, I employ deep learning techniques to generate 3D reconstructions of the spine from depthmaps of the back.
 
-For dynamics, I investigate the feasibility of reconstructing dynamic spinal trajectories by integrating subject-specific kinematic models and motion capture.
+For dynamics, I investigate the feasibility of reconstructing dynamic spinal trajectories (translations and rotations) by integrating subject-specific kinematic models in motion capture analysis.
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
@@ -36,4 +36,5 @@ An other challenge is to reduce the patient's X-ray exposure during both the dia
 Communications related to my works in the [Contributions section](/publications/)
 
 ## Figures
-I share my figures and drawings [here](/drawings/).
+I share some of my figures and drawings [here](/drawings/).
+
