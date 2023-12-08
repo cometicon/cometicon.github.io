@@ -80,5 +80,5 @@ Adaptation of the Duval-Beaupere diagram (Duval-Beaupere. *Les lois d'évolutivi
 
 |                              Surface deformity/Rib-hump                               |                                    Motion change                                    |
 |:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| <img width="200" height="200" src="/images/drawings/vignette_external_deformity.png"> | <img width="200" height="200" src="/images/drawings/vignette_motion_deformity.png"> |
+| <img width="280" height="280" src="/images/drawings/vignette_external_deformity.png"> | <img width="280" height="280" src="/images/drawings/vignette_motion_deformity.png"> |
 
