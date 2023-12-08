@@ -82,3 +82,8 @@ Adaptation of the Duval-Beaupere diagram (Duval-Beaupere. *Les lois d'évolutivi
 |:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
 | <img width="280" height="280" src="/images/drawings/vignette_external_deformity.png"> | <img width="280" height="280" src="/images/drawings/vignette_motion_deformity.png"> |
 
+
+### Spinous processes palpation
+<p class="flotte">
+<img src="/images/drawings/palpation.png" width="400" height="400" align="top">
+</p>
