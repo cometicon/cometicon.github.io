@@ -40,13 +40,13 @@ a: vertebral body; b: superior endplate; c: left transverse process; d: superior
 |:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
 | <img width="200" height="200" src="/images/drawings/vertebra_orientations_panjabi1978.png"> | <img width="200" height="200" src="/images/drawings/vertebra_orientations_stokes1994.png"> | <img width="200" height="200" src="/images/drawings/vertebra_orientations_wu2002.png"> |
 
-<!--
+
 ### Functional Spine Unit (FSU)
 
 |              Instantaneous Center of Rotation (ICR)               |                       Range of Motion (ROM)                       |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
 | <img width="200" height="200" src="/images/drawings/fsu_icr.png"> | <img width="200" height="200" src="/images/drawings/fsu_rom.png"> |
--->
+
 
 <a name="scoliosis"/>
 ## Scoliosis
