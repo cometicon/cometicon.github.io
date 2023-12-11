@@ -5,13 +5,13 @@ title: "PhD"
 
 
 ## Summary of the project
-The aim of my research is to combine diverse techniques for digitizing the human body to develop virtual AIS patient avatars. These digital twins are used to identify and examine potential medical issues.
+The aim of this research is to combine diverse techniques for digitizing the human body to develop virtual avatars of individuals with Adolescent Idiopathic Scoliosis (AIS). Also called *digital twins*, they are used to identify and examine potential medical issues.
 
-I'm currently focused on the analysis of adolescent idiopathic scoliosis through external static and dynamic assessments.
+This project is mainly focused on the analysis of AIS through external static and dynamic assessments.
 
-In the static aspects, I employ deep learning techniques to generate 3D reconstructions of the spine from depthmaps of the back.
+In the static aspects, I employed deep learning techniques to generate 3D reconstructions of the spine from depthmaps of the back.
 
-For dynamics, I investigate the feasibility of reconstructing dynamic spinal trajectories (translations and rotations) by integrating subject-specific kinematic models in motion capture analysis.
+For dynamics, I investigated the feasibility of reconstructing dynamic spinal trajectories (translations and rotations) by integrating subject-specific kinematic models in motion capture analysis.
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
 
@@ -19,7 +19,7 @@ For dynamics, I investigate the feasibility of reconstructing dynamic spinal tra
 ## Adolescent Idiopathic Scoliosis (AIS)
 <p class="flotte">
 <img src="/images/duval_beaupere.png" width="400" height="400" align="left" valign="top" hspace=10>
-My work is mainly focused on Adolescent Idiopathic Scoliosis (AIS). AIS is a complex medical condition characterized by abnormal sideways curvatures of the spine that evolves during the adolescence.
+My work is mainly focused on Adolescent Idiopathic Scoliosis (AIS). AIS is a complex medical condition characterized by 3D deformities of the spine that evolves during the adolescence.
 
 If left untreated, scoliosis can progress and result in breathing difficulties, chronic pain, and other health issues.
 </p>
