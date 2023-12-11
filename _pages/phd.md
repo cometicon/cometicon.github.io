@@ -1,6 +1,6 @@
 ---
 permalink: /phd/
-title: "My PhD work"
+title: "PhD"
 ---
 
 
@@ -36,5 +36,5 @@ An other challenge is to reduce the patient's X-ray exposure during both the dia
 Communications related to my works in the [Contributions section](/publications/)
 
 ## Figures
-I share some of my figures and drawings [here](/drawings/).
+Several figures have been designed to facilitate communication regarding idiopathic scoliosis, its monitoring, and our contributions. I am sharing some of them [here](/drawings/).
 
