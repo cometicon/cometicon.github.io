@@ -1,6 +1,6 @@
 ---
 permalink: /phd/
-title: "PhD"
+title: "PhD: Learning Scoliosis Patterns using Anatomical Models and Motion Capture"
 ---
 
 
