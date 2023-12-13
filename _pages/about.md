@@ -20,6 +20,7 @@ The project has been conducted under a CIFRE agreement between [Inria](https://w
 
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
+&copy; Nicolas Comte
 
 
 # Previous works

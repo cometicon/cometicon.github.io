@@ -14,6 +14,7 @@ In the static aspects, I employed deep learning techniques to generate 3D recons
 For dynamics, I investigated the feasibility of reconstructing dynamic spinal trajectories (translations and rotations) by integrating subject-specific kinematic models in motion capture analysis.
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
+&copy; Nicolas Comte
 
 
 ## Adolescent Idiopathic Scoliosis (AIS)
@@ -30,6 +31,7 @@ An other challenge is to reduce the patient's X-ray exposure during both the dia
 </p>
 
 <em>Figure adapted from the Duval-Beaupere diagram (Duval-Beaupere 1979)</em>
+&copy; Nicolas Comte
 
 
 ## Publications/Communications
