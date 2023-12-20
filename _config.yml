@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nicolas Comte"
   avatar           : "ncomte.jpg"
-  bio              : "French PhD student in computer sciences at Inria (team Morpheo) and Anatoscope"
+  bio              : "Ph.D in Computer Sciences, specialized in Medical Imaging and Motion capture."
   location         : "Grenoble, France"
-  employer         : "Anatoscope ; Inria"
+  employer         : "Anatoscope"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"
   email            : "nicolas.comte@inria.fr"
