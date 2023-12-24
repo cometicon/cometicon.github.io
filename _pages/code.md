@@ -14,9 +14,9 @@ Some of my source codes are available.
 
 # Scoliosis/Medical Imaging
 
-| Name             | Year | Description | Web page | Sources |
-|------------------|------|-------------|----------|---------|
-| SkinToSpine      | 2023 | 3D inference of the spine alignments from a single depthmap of the back |  Soon        |   Soon      |
+| Name             | Year | Description                                                                      | Web page                                            | Sources                                               |
+|------------------|------|----------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|
+| SkinToSpine      | 2023 | 3D inference of the spine alignments from a single depthmap of the back (Python) | [Here](https://gitlab.inria.fr/spine/skin_to_spine) | [Gitlab](https://gitlab.inria.fr/spine/skin_to_spine) |
 
 
 # Molecular phylogeny
