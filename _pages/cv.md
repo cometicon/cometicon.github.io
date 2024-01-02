@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my curriculum vitae (.pdf) [here](/files/ncomte_resume_2023-08.pdf)
+Please find my curriculum vitae (.pdf, short version) [here](/files/ncomte_one-page-resume_2024-01.pdf)
 
 
 Education
