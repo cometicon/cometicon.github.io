@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "PhD"
     url: /phd/
 
@@ -23,9 +26,6 @@ main:
 
   #- title: "Other activities"
   #  url: /other_activities/
-    
-  - title: "CV"
-    url: /cv/
 
   #- title: "Misc."
   #  url: /misc/

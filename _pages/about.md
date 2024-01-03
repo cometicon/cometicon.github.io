@@ -11,10 +11,11 @@ redirect_from:
 Welcome to my personal website !
 
 
-I recently graduated with a Doctorate in Computer Science from Université Grenoble Alpes. I'm specialized in computer vision and computer graphics applied in medical imaging.
+I recently graduated with a Doctorate in Computer Science from Université Grenoble Alpes (UGA). I'm specialized in computer vision and computer graphics applied in medical imaging.
+
 
 # PhD project
-My research aims to improve the analysis of adolescent idiopathic scoliosis through external static and dynamic assessments. More details in the page [PhD](/phd/).
+My research aimed to improve the analysis of adolescent idiopathic scoliosis through external static and dynamic assessments. You can found more details about my work in the page [PhD](/phd/).
 
 The project has been conducted under a CIFRE agreement between [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and the company [Anatoscope](https://www.anatoscope.com/), supervised by [Sergi Pujades](http://sergipujades.free.fr/) (Inria, UGA), [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) (Inria, UGA), [Jean-Sebastien Franco](https://morpheo.inrialpes.fr/~franco/) (Inria, UGA), François Faure (Anatoscope) and Aurélien Courvoisier (TIMC, Grenoble Hospital).
 
@@ -35,4 +36,4 @@ Before my PhD project, I have also produced work in molecular phylogeny and arti
 - Scientific communication and mediation
 - Programming
 
-You can find some details about my drawing and photography activities [here](/other_activities/).
+You can find more details about my drawing and photography activities [here](/other_activities/).

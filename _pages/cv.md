@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,21 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my curriculum vitae (.pdf, short version) [here](/files/ncomte_one-page-resume_2024-01.pdf)
+Please find my *curriculum vitae* in pdf here: [english](/files/ncomte_one-page-resume_2024-01-en.pdf) or [french](/files/ncomte_one-page-resume_2024-01-fr.pdf)
+
+Last update: 03/01/2024
 
 
-Education
-======
-* Doctoral studies in Computer Science at Université Grenoble-Alpes, (current position)
-* Engineer degree in Bioinformatics and modelling at Insa Lyon, 2017
-* Bachelor degree in Biology -- Bioinformatics at Université de Lyon, 2013
+## Education
+* 2023 Doctoral degree in Computer Science at Université Grenoble-Alpes
+* 2016 Engineer's degree (*Diplôme d'Ingénieur*) in Bioinformatics and modelling at Insa Lyon
+* 2013 Bachelor's degree in Biology, Bioinformatics at Université de Lyon
 
 
-Work experience
-======
-* Since 2019 Anatoscope, Inria, team Morpheo
-  * R&D engineer and Ph.D student (since April 2020)
-  * Project with Anatoscope, Inria team Morpheo and Grenoble Hospital
+## Work experience
+* 2019-Pres. Anatoscope, Inria, team Morpheo
+  * R&D engineer (anatomical simulations, modeling) for industrial studies
+  * Ph.D project (CIFRE) with Anatoscope, Inria team Morpheo and Grenoble Hospital. More details in the page [PhD](/phd/).
 
 * 2017-2018 Inria, team Beagle
   * Software developer at Inria, team Beagle
@@ -35,45 +35,34 @@ Work experience
   * Summer 2015 Statistics and R programming at [Soladis](https://www.soladis.com/)
   
 
-Skills
-======
-* Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
-* Scientific computing: R, Matlab, Python, Sofa:
-  * Statistics and mathematical modeling
-  * Machine learning
-  * Computer vision, computer graphics
-* Communication: LaTeX, Gimp, Krita, Inkscape
+## Skills
+* Computer science: machine learning, deep-learning, parallel computing, artifical life
+* Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">, Git
+* Scientific computing: R, Matlab, Python (Pytorch, Scikit-learn), Sofa
+* Communication: LaTeX, HTML, Gimp, Krita, Inkscape
 
 
-Publications
-======
-<div align="center">
-  <a href="https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" alt="Google scholar" width="40" height="40" >
-  </a>
-</div>
+## Publications
+List of my contributions here: <a href="https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" alt="Google scholar" width="20" height="20" /></a>  or [here](/publications)
 
 
-Awards
-=====
-* *Best Poster* at [*IABM 2023*](https://iabm2023.sciencesconf.org), the national symposium in AI applied in medical imaging
-* *Best Composite Part* and *Gold Medal* of our team [Curly'On](https://2014.igem.org/Team:INSA-Lyon) at the *iGEM competition 2014*, International Genetically Engineered Machine competition (Synthetic Biology)
+## Awards
+* 2023: *Best Poster* at [*IABM 2023*](https://iabm2023.sciencesconf.org), the national symposium in AI applied in medical imaging
+* 2014: *Gold Medal* and *Best Composite Part* for our team [Curly'On](https://2014.igem.org/Team:INSA-Lyon) at the *iGEM competition 2014*, International Genetically Engineered Machine competition (Synthetic Biology)
   
   
-Teaching
-======
-* C++ programming, Insa Lyon, 2017-2018 (48h)
+## Teaching
+* 2017-2018 C++ programming, INSA Lyon, Biosciences department
 
 
-Scientific mediation
-======
-* 2017-2020 Member of the French public outreach and science communication association [DéMesures](https://demesures.jimdo.com/)
+## Scientific mediation
+* 2017-2019 Member of the French public outreach and science communication association [DéMesures](https://demesures.jimdo.com/)
   * Animation ; illustration ; organization ; review
-  * Involved in different projects: [Artscience 2018](https://www.ens-lyon.fr/evenement/campus/jaces-2018-artscience-un-projet-de-lassociation-demesures), Geek Touch 2018, Fête de la Science, ...
+  * I've been involved in different projects: [Artscience 2018](https://www.ens-lyon.fr/evenement/campus/jaces-2018-artscience-un-projet-de-lassociation-demesures), Geek Touch 2018, Fête de la Science, ...
 
 
-Interests
-======
+## Interests
 - Drawing and digital painting: [here](https://www.instagram.com/cometicon.draws/)
-- Nature photography: [here](https://www.instagram.com/cometicon.snaps/)
+- Nature and wildlife photography: [here](https://www.instagram.com/cometicon.snaps/)
 - Scientific communication and mediation
 - Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
