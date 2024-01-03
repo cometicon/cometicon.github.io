@@ -16,7 +16,7 @@ Last update: 03/01/2024
 
 ## Education
 * 2023 Doctoral degree in Computer Science at Université Grenoble-Alpes
-* 2016 Engineer's degree (*Diplôme d'Ingénieur*) in Bioinformatics and modelling at Insa Lyon
+* 2016 Engineer's degree in Bioinformatics and modelling at Insa Lyon
 * 2013 Bachelor's degree in Biology, Bioinformatics at Université de Lyon
 
 
