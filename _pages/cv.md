@@ -22,8 +22,7 @@ Last update: 03/01/2024
 
 ## Work experience
 * 2019-Pres. Anatoscope, Inria, team Morpheo
-  * R&D engineer (anatomical simulations, modeling) for industrial studies
-  * Ph.D project (CIFRE) with Anatoscope, Inria team Morpheo and Grenoble Hospital. More details in the page [PhD](/phd/).
+  * Ph.D project (CIFRE) with Anatoscope, Inria team Morpheo and Grenoble Hospital. More details in the page [PhD](/phd/). I've also been involved in industrial projects.
 
 * 2017-2018 Inria, team Beagle
   * Software developer at Inria, team Beagle
