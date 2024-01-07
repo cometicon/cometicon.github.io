@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my *curriculum vitae* in pdf here: [english](/files/ncomte_one-page-resume_2024-01-en.pdf) or [french](/files/ncomte_one-page-resume_2024-01-fr.pdf)
+Please find my *curriculum vitae*, short version in pdf here: [english](/files/ncomte_one-page-resume_2024-01-en.pdf) or [french](/files/ncomte_one-page-resume_2024-01-fr.pdf)
 
-Last update: 05/01/2024
+Full version: [english](/files/ncomte_resume_2024-01-en.pdf)
+
+Last update: 07/01/2024
 
 ## Education
 * <strong>2023</strong> Doctoral degree in Computer Science at Université Grenoble-Alpes (France)
