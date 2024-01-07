@@ -16,10 +16,12 @@ author_profile: true
 {% endfor %}
 -->
 
+Last update: Last update: 07/01/2024
+
 ## Related to my PhD
 ### Journal papers
 * Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). Multi-Modal Data Correspondence for the 4D Analysis of the Spine with Adolescent Idiopathic Scoliosis. In Bioengineering (Vol. 10, Issue 7, p. 874). MDPI AG. [https://doi.org/10.3390/bioengineering10070874](https://doi.org/10.3390/bioengineering10070874).
-* Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). 3D inference of the scoliotic spine from depth maps of the back. [hal-04362152](https://hal.science/hal-04362152).
+* Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). 3D inference of the scoliotic spine from depth maps of the back. Preprint: [hal-04362152](https://hal.science/hal-04362152).
 
 ### Conference abstracts
 * Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). 3D inference of the scoliotic spine from depthmaps of the back. *Oral presentation*, CMBBE (International Symposium on Computer Methods in Biomechanics and Biomedical Engineering) 2023, Paris, France. [Abstract book](http://www.cmbbe-symposium.com/2023/wp-content/uploads/sites/14/2023/04/CMBBE23_Abstract_book_orals_small.pdf)
@@ -34,5 +36,5 @@ author_profile: true
 * Duchemin, W., Gence, G., Arigon Chifolleau, A.-M., Arvestad, L., Bansal, M. S., Berry, V., Boussau, B., Chevenet, F., Comte, N., Davín, A. A., Dessimoz, C., Dylus, D., Hasic, D., Mallo, D., Planel, R., Posada, D., Scornavacca, C., Szöllősi, G., Zhang, L., … Daubin, V. (2018). RecPhyloXML: a format for reconciled gene trees. In R. Schwartz (Ed.), Bioinformatics (Vol. 34, Issue 21, pp. 3646–3652). Oxford University Press (OUP). [https://doi.org/10.1093/bioinformatics/bty389](https://doi.org/10.1093/bioinformatics/bty389)
 
 ### Conference abstracts and papers
-* Liard, V., Rouzaud-Cornabas, J., Comte, N., Beslon, G. (2017). A 4-base model for the Aevol in-silico experimental evolution platform. Proceedings of the ECAL 2017, the Fourteenth European Conference on Artificial Life. ECAL 2017, the Fourteenth European Conference on Artificial Life. Lyon, France. (pp. pp. 265-266). ASME. [https://doi.org/10.1162/isal_a_046](https://doi.org/10.1162/isal_a_046)
+* Liard, V., Rouzaud-Cornabas, J., Comte, N., Beslon, G. (2017). A 4-base model for the Aevol in-silico experimental evolution platform. Proceedings of the ECAL 2017, the Fourteenth European Conference on Artificial Life. ECAL 2017, the Fourteenth European Conference on Artificial Life. Lyon, France. (pp. 265-266). ASME. [https://doi.org/10.1162/isal_a_046](https://doi.org/10.1162/isal_a_046)
 * Comte, N., Liard, V., Knibbe, C., Beslon, G. (2017). Aevol-4b: Toward a new simulation platform to benchmark phylogenetic tools. ALPHY 2017 (ALignments and PHYlogeny), Villeurbanne, France. [hal-01569078](https://hal.science/hal-01569078/document)
