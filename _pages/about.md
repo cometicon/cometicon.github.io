@@ -15,9 +15,7 @@ I recently graduated with a Doctorate in Computer Science from Université Greno
 
 
 # PhD project
-My research aimed to improve the analysis of adolescent idiopathic scoliosis through external static and dynamic assessments. You can found more details about my work in the page [PhD](/phd/).
-
-The project has been conducted under a CIFRE agreement between [Inria](https://www.inria.fr/fr) (team [Morpheo](https://team.inria.fr/morpheo/)) and the company [Anatoscope](https://www.anatoscope.com/), supervised by [Sergi Pujades](http://sergipujades.free.fr/) (Inria, UGA), [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) (Inria, UGA), [Jean-Sebastien Franco](https://morpheo.inrialpes.fr/~franco/) (Inria, UGA), François Faure (Anatoscope) and Aurélien Courvoisier (TIMC, Grenoble Hospital).
+My research aimed to improve the analysis of spinal deformities through external static and dynamic assessments. You can found more details about my work in the page [PhD](/phd/).
 
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
