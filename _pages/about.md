@@ -15,7 +15,8 @@ I recently graduated with a Doctorate in Computer Science from Université Greno
 
 
 # PhD project
-My research aimed to improve the analysis of spinal deformities through external static and dynamic assessments. You can found more details about my work in the page [PhD](/phd/).
+My research aimed to improve the analysis of spinal deformities through external static and dynamic assessments. For this purpose, we employed deep-learning techniques and created subject-specific kinematic models correlating the internal and external specificities of the patients.
+You can find more details about my work on the page [PhD](/phd/).
 
 
 ![Scoliosis Studies](/images/scoliosis_study_smaller.png)
