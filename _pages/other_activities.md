@@ -26,7 +26,7 @@ I often draw and paint with the open-source software [Krita](https://krita.org/f
 <div style="text-align: center;">
   <img src="/images/combi_photos.png" alt="Photos" style="width:100%; margin-bottom: 20px;">
 </div>
-In my spare time, I like to go out and take photos, along streams, in meadows or woods, cataloging insects in my region.
+In my spare time, I like to go out and take photos (usually in macro-photography), along streams, in meadows or woods, cataloging insects in my region.
 <div align="center">
     <a href="https://www.instagram.com/cometicon.snaps/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="Cometicon.snaps" width="25" height="25" >
     </a>
