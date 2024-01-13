@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website !
+Welcome to my personal website!
 
 
 I recently graduated with a Doctorate in Computer Science from Université Grenoble Alpes (UGA). I'm specialized in computer vision and computer graphics applied in medical imaging.
 
 
-# PhD project
+# My Ph.D project
 My research aimed to improve the analysis of spinal deformities through external static and dynamic assessments. For this purpose, we employed deep-learning techniques and created subject-specific kinematic models that correlate the internal and external specificities of the patients collected through X-rays, 3D surface scans and motion capture.
 You can find more details about my work on the page [PhD](/phd/).
 
