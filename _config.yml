@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Nicolas Comte"
 title_separator          : "-"
 name                     : &name "Nicolas Comte"
-description              : &description "PhD Sudent at Inria and Anatoscope"
+description              : &description "PhD in Computer Science"
 url                      : https://cometicon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cometicon/cometicon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicolas Comte"
   avatar           : "ncomte.jpg"
-  bio              : "Ph.D in Computer Sciences, specialized in Medical Imaging and Motion capture."
+  bio              : "Ph.D in Computer Science, specialized in Medical Imaging and Motion capture."
   location         : "Grenoble, France"
   employer         : "Anatoscope"
   pubmed           : 
