@@ -16,15 +16,15 @@ Some of my source codes are available.
 
 | Name             | Year | Lang.  | Description                                                                      | Paper   | Web page                                            | Sources                                               |
 |------------------|------|--------|----------------------------------------------------------------------------------|---------|-----------------------------------------------------|-------------------------------------------------------|
-| SkinToSpine      | 2023 | Python |  3D inference of the spine alignments from a single depthmap of the back (Python) | [Hal](https://hal.science/hal-04362152)                                           | [Here](https://gitlab.inria.fr/spine/skin_to_spine) | [Gitlab](https://gitlab.inria.fr/spine/skin_to_spine) |
+| SkinToSpine      | 2023 | Python |  3D inference of the spine alignments from a single depthmap of the back | [Hal](https://hal.science/hal-04362152)                                           | [Here](https://gitlab.inria.fr/spine/skin_to_spine) | [Gitlab](https://gitlab.inria.fr/spine/skin_to_spine) |
 
 
 # Molecular phylogeny
 
 | Name        | Year  | Lang. | Description                                                                      | Paper                                                                      | Web page                                       | Sources                                                      |
 | ----------- | ----- |-------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------| ---------------------------------------------- | ------------------------------------------------------------ |
-| Seaview 5.0 | 2021  | C/C++ | Multiplatform, GUI for multiple sequence alignment and molecular phylogeny (C++) | [Here](https://link.springer.com/protocol/10.1007/978-1-0716-1036-7_15)    | [Here](https://doua.prabi.fr/software/seaview) | [Here](https://doua.prabi.fr/software/seaview)               |
-| Treerecs    | 2020  | C++   | Species- and Gene- tree reconciliation software (C++)                            | [Here](https://academic.oup.com/bioinformatics/article/36/18/4822/5872524) | [Here](https://project.inria.fr/treerecs/)     | [Gitlab](https://gitlab.inria.fr/Phylophile/Treerecs)        |
+| Seaview 5.0 | 2021  | C/C++ | Multiplatform, GUI for multiple sequence alignment and molecular phylogeny | [Here](https://link.springer.com/protocol/10.1007/978-1-0716-1036-7_15)    | [Here](https://doua.prabi.fr/software/seaview) | [Here](https://doua.prabi.fr/software/seaview)               |
+| Treerecs    | 2020  | C++   | Species- and Gene- tree reconciliation software                            | [Here](https://academic.oup.com/bioinformatics/article/36/18/4822/5872524) | [Here](https://project.inria.fr/treerecs/)     | [Gitlab](https://gitlab.inria.fr/Phylophile/Treerecs)        |
 
 # Personal projects
 
