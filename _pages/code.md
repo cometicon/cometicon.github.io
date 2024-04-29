@@ -28,9 +28,7 @@ Some of my source codes are available.
 
 # Personal projects
 
-| Name        | Year  | Description                                                                  | Web page                                       | Sources                                                      |
-| ----------- | ----- |------------------------------------------------------------------------------| ---------------------------------------------- | ------------------------------------------------------------ |
+| Name        | Year  | Description                                                                                                                 | Web page                                       | Sources                                                      |
+| ----------- | ----- |-----------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------- | ------------------------------------------------------------ |
 | Artilife    | 2023  | Artificial life simulator (Python) of particles, combined with an artificial neural network, that evolve in a 2D environment | [Github](https://github.com/cometicon/artilife)| [Github](https://github.com/cometicon/artilife)              |
-
-<!---| Mabadilko   | 2018  | Artificial life simulator of evolving bacteria populations                  | NA                                             | NA                                                           |
-| HuttonSim   | 2014  | Simulator following Hutton artificial chemistry laws with additional rules  | NA                                             | NA                                                           | -->
+| HuttonSim   | 2014  | Simulator following Hutton artificial chemistry laws with additional rules                                                  | NA                                             | NA                                                           | 

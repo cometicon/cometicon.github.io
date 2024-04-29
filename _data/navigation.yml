@@ -24,8 +24,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  #- title: "Other activities"
-  #  url: /other_activities/
+  - title: "Other"
+    url: /other_activities/
 
   #- title: "Misc."
   #  url: /misc/

@@ -25,22 +25,28 @@ Last update: 13/01/2024
 
 
 ## <i class="fas fa-briefcase"></i> Experience
-- **2019-Pres.** R&D engineer, Ph.D student at Anatoscope, Inria team Morpheo (France)  
+- **2024-** Research engineer at Anatoscope (France)  
+  * Development of software applications for the creation of human digital twins from 3D surface analysis and deep learning methods.
+
+- **2019-2023** R&D engineer, Ph.D student at Anatoscope, Inria team Morpheo (France)  
   * Ph.D project (CIFRE) between Anatoscope, Inria team Morpheo and Grenoble Hospital. More details in the page [PhD](/phd/). I've also been involved in industrial projects.
 
 - **2017-2018** Software engineer at Inria team Beagle (France)  
   * Creation of [Treerecs](https://project.inria.fr/treerecs) and [Seaview 5.0](https://doua.prabi.fr/software/seaview), fast and easy-to-use software applications in molecular phylogeny
   * Teaching C++ programming at Insa Lyon (48h)
-  
+
 - **2015-2016** Internships (France)  
   * Summer 2016 Modeling and C++ programming for the [Aevol plateform](http://www.aevol.fr/) at Inria, team Beagle
   * Summer 2015 Statistics and R programming at [Soladis](https://www.soladis.com/)
-  
+
+- **2014** iGEM international competition, team Curly'On INSA Lyon
+  * Details of the project [here](https://2014.igem.org/Team:INSA-Lyon)
+  * We won two awards: the Gold Medal and Best Composite Part
 
 ## <i class="fas fa-tasks"></i> Skills
 - **Computer science**: machine learning, deep-learning, parallel computing, artifical life  
-- **Programming**: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">, Git  
-- **Scientific computing**: R, Matlab, Python (Pytorch, Scikit-learn), Sofa  
+- **Programming**: C, C++, Python, Git  
+- **Scientific computing**: R, Matlab, Python (Pytorch, Scikit-learn), Sofa, Julia 
 - **Communication**: LaTeX, HTML, Gimp, Krita, Inkscape  
 
 
