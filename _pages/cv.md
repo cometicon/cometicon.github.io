@@ -25,7 +25,7 @@ Last update: 13/01/2024
 
 
 ## <i class="fas fa-briefcase"></i> Experience
-- **2024-** Research engineer at Anatoscope (France)  
+- **2024--** Research engineer at Anatoscope (France)  
   * Development of software applications for the creation of human digital twins from 3D surface analysis and deep learning methods.
 
 - **2019-2023** R&D engineer, Ph.D student at Anatoscope, Inria team Morpheo (France)  
@@ -44,10 +44,13 @@ Last update: 13/01/2024
   * We won two awards: the Gold Medal and Best Composite Part
 
 ## <i class="fas fa-tasks"></i> Skills
-- **Computer science**: machine learning, deep-learning, parallel computing, artifical life  
+- **Computer science**: machine learning, deep learning, parallel computing, artificial life  
 - **Programming**: C, C++, Python, Git  
-- **Scientific computing**: R, Matlab, Python (Pytorch, Scikit-learn), Sofa, Julia 
-- **Communication**: LaTeX, HTML, Gimp, Krita, Inkscape  
+- **Scientific computing**: R, Python (Pytorch, Scikit-learn), Sofa 
+- **Communication**: LaTeX, Markdown, HTML, Gimp, Krita, Inkscape, RevealJS
+
+In my spare time, I'm learning new languages. I'm currently beginner with: Rust, Julia, CSS and Typst  
+I also worked with some languages, however I'm not using them anymore: Matlab, SAS, Java and PHP.
 
 
 ## <i class="fas fa-file"></i> Publications
