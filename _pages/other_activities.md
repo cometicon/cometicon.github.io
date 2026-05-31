@@ -19,7 +19,7 @@ Beside my research activity, I drew for diverse institutions and associations. I
 I often draw and paint with the open-source software [Krita](https://krita.org/fr/). Some of my artworks are shared in my instagram page:
 <div align="center">
     <a href="https://www.instagram.com/cometicon.draws/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="Cometicon.draws" width="25" height="25" >
-    </a>
+    </a> (Closed)
 </div>
 
 ## <i class="fas fa-camera"></i> Photography
@@ -28,7 +28,7 @@ I often draw and paint with the open-source software [Krita](https://krita.org/f
 </div>
 In my spare time, I like to go out and take photos (usually in macro-photography), along streams, in meadows or woods, cataloging insects in my region.
 <div align="center">
-    <a href="https://www.instagram.com/cometicon.snaps/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="Cometicon.snaps" width="25" height="25" >
+    <a href="https://www.instagram.com/cometicon.macros/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="Cometicon.macros" width="25" height="25" >
     </a>
 </div>
 
