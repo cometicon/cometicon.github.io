@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Computational Biology -- Computational Imaging
+Welcome to my personal page!
 
 <i class="fas fa-user"></i>
 My work focuses on reconstructing living forms through computational tools, bridging the gap between scientific precision and visual exploration.
