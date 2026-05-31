@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Computational Biology -- Computational Imaging
+<h2><b>Nicolas Comte - </b>
+Computational Biology & Computational Imaging</h2>
+
 Welcome to my personal page!
 
 <i class="fas fa-user"></i>
