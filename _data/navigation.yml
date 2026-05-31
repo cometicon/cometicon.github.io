@@ -6,8 +6,11 @@ main:
   - title: "PhD"
     url: /phd/
 
-  - title: "Contributions"
+  - title: "Sci. contributions"
     url: /publications/
+
+  - title: "Macrophotography"
+    url: /macrophotography/
 
   - title: "Code"
     url: /code/
