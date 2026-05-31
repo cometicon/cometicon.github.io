@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Comte"
+  name             : "Nicolas Comte, PhD"
   avatar           : "ncomte.jpg"
-  bio              : "Research engineer, Ph.D in Computer Science, specialized in 3D Medical Imaging and Motion capture."
+  bio              : "Computational Biology -- Computational Imaging"
   location         : "Grenoble, France"
   employer         : "Circle Dental"
   pubmed           : 
