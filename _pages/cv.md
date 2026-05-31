@@ -25,11 +25,11 @@ Last update: 13/01/2024
 
 
 ## <i class="fas fa-briefcase"></i> Experience
-- **2026--** Research engineer at Circle Dental (France)
+- **2025--** Research engineer at Circle Dental (France)
   * Machine-Learning/AI team, Agile facilitator/Product Owner/Dev  
   * Development of software applications for the creation of IOS digital twins from 3D surface analysis and deep learning methods.
 
-- **2024--** Research engineer at Anatoscope (France)  
+- **2023-2025** Research engineer at Anatoscope (France)  
   * Development of software applications for the creation of human digital twins from 3D surface analysis and deep learning methods.
 
 - **2019-2023** R&D engineer, Ph.D student at Anatoscope, Inria team Morpheo (France)  
