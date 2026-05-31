@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+<i class="fas fa-user"></i>
+My work focuses on reconstructing living forms through computational tools, bridging the gap between scientific precision and visual exploration.
 
-<i class="fas fa-user"></i> My name is Nicolas Comte, PhD in Computer Science from
-University Grenoble Alpes (UGA). I also hold an engineer's degree in Computational Biology of INSA Lyon.
+<i class="fa-solid fa-briefcase"></i> Professionally, I am a research engineer specializing in surface reconstruction and digital twins. I hold a PhD in Computer Science and an engineering degree in Computational Biology.
 
-<i class="fas fa-briefcase"></i> During my career I've been involved in different projects across biology, medical
-imaging and computer science at Inria (Lyon and Grenoble, France) and Anatoscope (Grenoble, France). You can find more
-details in my [CV](/cv) and the [Publications page](/publications).
-
-<i class="fas fa-graduation-cap"></i> For more information about my PhD project, see the page [PhD](/phd).
-
-<i class="fas fa-palette"></i> In my spare time, I'm involved in different projects: macrophotography, drawing,
-programming and science popularization. You can find more details [here](/other_activities/).
+<i class="fa-solid fa-camera"></i> In my creative practice, I explore extreme macro photography. By applying computational reconstruction techniques, I aim to unveil the intricate, hidden geometry of the microscopic world.

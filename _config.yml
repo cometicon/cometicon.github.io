@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Nicolas Comte"
 title_separator          : "-"
 name                     : &name "Nicolas Comte"
-description              : &description "Research engineer, PhD in Computer Science"
+description              : &description "Computational Imaging -- Computational Biology"
 url                      : https://cometicon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cometicon/cometicon.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "ncomte.jpg"
   bio              : "Research engineer, Ph.D in Computer Science, specialized in 3D Medical Imaging and Motion capture."
   location         : "Grenoble, France"
-  employer         : "Anatoscope"
+  employer         : "Circle Dental"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"
   email            : "nicolas.comte1@gmail.com"
@@ -99,7 +99,7 @@ author:
   github           : "cometicon"
   google_plus      :
   keybase          :
-  instagram        : #"cometicon.draws"
+  instagram        : "cometicon.macros"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "nicolascomte"
