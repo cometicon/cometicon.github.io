@@ -16,8 +16,7 @@ author_profile: true
 {% endfor %}
 -->
 
-Last update: Last update: 07/01/2024
-
+**2026/06/01**: 419 citations - 9 contributions (Google Scholar)
 ## Related to my PhD
 ### Journal papers
 * Comte, N., Pujades, S., Courvoisier, A., Daniel, O., Franco, J.-S., Faure, F., & Boyer, E. (2023). Multi-Modal Data Correspondence for the 4D Analysis of the Spine with Adolescent Idiopathic Scoliosis. In Bioengineering (Vol. 10, Issue 7, p. 874). MDPI AG. [https://doi.org/10.3390/bioengineering10070874](https://doi.org/10.3390/bioengineering10070874).
