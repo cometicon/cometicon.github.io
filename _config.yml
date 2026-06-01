@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "comtetweets"
+  username               : # &twitter "comtetweets"
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Comte, PhD"
+  name             : "Nicolas Comte"
   avatar           : "ncomte.jpg"
-  bio              : "Computational Biology - Computational Imaging"
+  bio              : "R&D Engineer, PhD<br>
+                      3D medical imaging | AI-assisted biomechanical analysis"
   location         : "Grenoble, France"
   employer         : "Circle Dental"
   pubmed           : 
