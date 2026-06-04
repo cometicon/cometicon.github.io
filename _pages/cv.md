@@ -76,8 +76,8 @@ I also worked with some languages, however I'm not using them anymore: Matlab, S
 
 
 ## <i class="fas fa-palette"></i> Hobbies
-- Drawing and digital painting: [here](/other_activities)
 - Nature and wildlife photography: [here](/macrophotography)
+- Drawing and digital painting: [here](/other_activities)
 - Scientific communication and mediation
 - Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
 
