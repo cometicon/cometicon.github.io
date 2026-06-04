@@ -10,13 +10,11 @@ redirect_from:
 {% include base_path %}
 
 Please find my *curriculum vitae*:
-- Short version:
-english [<i class="fas fa-file-pdf"></i>](/files/ncomte_one-page-resume_2024-01-en.pdf)
-french [<i class="fas fa-file-pdf"></i>](/files/ncomte_one-page-resume_2024-01-fr.pdf)
+- Short version only:  
+english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
+french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
-- Full version: english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_2024-01-en.pdf)
-
-Last update: 13/01/2024
+Last update: 04/06/2026
 
 ## <i class="fas fa-graduation-cap"></i> Education
 - **2023** Doctoral degree in Computer Science at Université Grenoble-Alpes (France)  
@@ -80,7 +78,7 @@ I also worked with some languages, however I'm not using them anymore: Matlab, S
 
 ## <i class="fas fa-palette"></i> Hobbies
 - Drawing and digital painting: [here](/other_activities)
-- Nature and wildlife photography: [here](/other_activities)
+- Nature and wildlife photography: [here](/macrophotography)
 - Scientific communication and mediation
 - Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
 
