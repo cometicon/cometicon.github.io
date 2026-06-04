@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my *curriculum vitae*:
-- Short version only:  
-english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
-french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
+Please find my *curriculum vitae* (short versions):
+- english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
+- french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
 Last update: 04/06/2026
 
