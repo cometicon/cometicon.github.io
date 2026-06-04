@@ -23,12 +23,12 @@ main:
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
 
   - title: "Other"
     url: /other_activities/
+
+  - title: "Posts"
+    url: /year-archive/
 
   #- title: "Misc."
   #  url: /misc/
