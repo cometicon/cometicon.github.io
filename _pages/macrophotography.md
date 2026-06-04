@@ -27,6 +27,7 @@ En fait, pas du tout.
 
 ## 🧟 La théorie, on s'en tamponne un peu
 Le truc, c'est qu'en pratique, on juge une photo à son rendu, pas à sa fiche technique. Et c'est là que le "zbeul" commence : le facteur de recadrage. Un rapport 1:1 sur un capteur moyen format (très grand) ne donnera pas le même résultat visuel qu'un 1:1 sur un capteur APS-C (petit). Ajoutez à cela la définition folle des capteurs actuels qui permet de recadrer dans l'image, et vous comprenez pourquoi la théorie devient vite relative.
+
 Quelle solution ?
 
 On peut se la raconter en parlant d’"agrandissement apparent" par rapport au plein format 35mm. C’est sobre, et ça résout notre problème. Après, entre nous, je n'ai jamais croisé personne sur le terrain, en train de ramper dans la boue pour photographier un scarabée, qui se balade avec une règle pour calculer le rapport au millimètre près. On est là pour s'amuser, non ?
@@ -51,8 +52,8 @@ Des accessoires existent pour vous rapprocher du sujet. Ils pourraient transform
 
 Voire même!! Transformer votre objectif macro 1:1 en 2 voire 3:1 !!
 
-- les bonnettes close-up 🔎: voyez ça comme une loupe à fixer devant l'objectif. Les bonnettes les moins chères auront tendance à casser l'image avec des abérrations chromatiques dans tous les sens. Certaines marques vontr traiter leur lentille pour éviter ces phénomènes comme NiSi ou Raynox. Voici un test de bonnettes macro [là](https://www.photonumeric.fr/testraynox/).
+- les bonnettes close-up 🔎 : voyez ça comme une loupe à fixer devant l'objectif. Les bonnettes les moins chères auront tendance à casser l'image avec des abérrations chromatiques dans tous les sens. Certaines marques vontr traiter leur lentille pour éviter ces phénomènes comme NiSi ou Raynox. Voici un test de bonnettes macro [là](https://www.photonumeric.fr/testraynox/).
 - les tubes allonges 🧻 : un tube à placer entre le boitier et l'objectif. Le principe est tout bête mais il change pas mal de choses. Attention à bien choisir les tubes en métal les plus solides. Je vois une facheuse manie à tout faire en plastique. De quoi céder rapidement sous le poids de l'objectif macro sur lesquels ils sont fixés... A noter que ces tubes, chers ou pas, diminuent la luminosité à l'image.
-- les bagues d'inversion : le plus difficile à manipuler ! Fonctionne le mieux sur des focales courtes. Prenez votre objectif, inversez son sens. Au lieu de pointer vers le sujet il ira regarder le capteur. Cette méthode permet aussi de faire une bonnette macro en fixant votre objectif inversé devant un objectif avec une focale longue (100mm ou plus).
+- les bagues d'inversion 🔄 : le plus difficile à manipuler, mais aussi le moins cher ! Fonctionne le mieux sur des focales courtes. Prenez votre objectif, inversez son sens. Au lieu de pointer vers le sujet il ira regarder le capteur. Cette méthode permet aussi de faire une bonnette macro en fixant votre objectif inversé devant un objectif avec une focale longue (100mm ou plus).
 
 ## A venir: conseils et focus-stacking
