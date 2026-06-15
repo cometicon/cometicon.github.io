@@ -1,40 +1,40 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /en/cv
 
   - title: "PhD"
-    url: /phd/
+    url: /en/phd
 
   - title: "Sci. contributions"
-    url: /publications/
+    url: /en/publications
 
   - title: "Macrophotography"
-    url: /macrophotography/
+    url: /en/macrophotography
 
   - title: "Code"
-    url: /code/
+    url: /en/code
 
   #- title: "Talks"
-  #  url: /talks/    
+  #  url: /en/talks    
 
   #- title: "Teaching"
-  #  url: /teaching/    
+  #  url: /en/teaching    
     
   #- title: "Portfolio"
-  #  url: /portfolio/
+  #  url: /en/portfolio
 
   - title: "Other"
-    url: /other_activities/
+    url: /en/other_activities
 
   - title: "Posts"
-    url: /year-archive/
+    url: /en/year-archive
 
   #- title: "Misc."
-  #  url: /misc/
+  #  url: /misc
 
   #- title: "Drawings"
-  #  url: /drawings/
+  #  url: /drawings
     
   #- title: "Guide"
-  #  url: /markdown/
+  #  url: /markdown

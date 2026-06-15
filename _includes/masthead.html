@@ -1,25 +1,68 @@
 {% include base_path %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
+        {% assign masthead_lang = page.lang | default: 'en' %}
+        <button type="button" aria-label="{{ site.data.ui-text[masthead_lang].menu_toggle_label | default: 'Toggle menu' }}"><div class="navicon"></div></button>
         <ul class="visible-links">
+          {% assign page_lang = page.lang | default: 'en' %}
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
+            <a href="{{ base_path }}/{{ page_lang }}/">{{ site.title }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% assign nav_file = 'navigation-' | append: page_lang %}
+          {% assign nav_data = site.data[nav_file] %}
+          {% for link in nav_data.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
+            {% if link.multi %}
+              <li class="masthead__menu-item has-dropdown">
+                <a href="#" class="dropdown-toggle">{{ link.title }} <i class="fa-solid fa-caret-down"></i></a>
+                <ul class="dropdown-menu">
+                  {% for sublink in link.multi %}
+                    <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              {% comment %}Only mark as selected on exact match, not on child pages like blog posts{% endcomment %}
+              <li class="masthead__menu-item {% if page.url == link.url %}selected{% endif %}">
+                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endif %}
           {% endfor %}
+          {% comment %}Build language selector by deduplicating translations{% endcomment %}
+          {% assign posts=site.posts | where:"ref", page.ref %}
+          {% assign pages=site.pages | where:"ref", page.ref %}
+          {% assign publications=site.publications | where:"ref", page.ref %}
+          {% assign all_translations = posts | concat: pages | concat: publications %}
+          {% assign by_lang = all_translations | group_by: 'lang' | sort: 'name' %}
+          {% assign valid_langs = 0 %}
+          {% for lang_group in by_lang %}
+            {% if lang_group.name and lang_group.name != '' %}
+              {% assign valid_langs = valid_langs | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+          {% comment %}Only show language selector if there are alternative translations{% endcomment %}
+          {% if valid_langs > 1 %}
+          <li class="masthead__menu-item persist tail has-dropdown" id="lang-selector">
+            <a href="#" class="dropdown-toggle">{{ page.lang | upcase }} <i class="fa-solid fa-caret-down"></i></a>
+            <ul class="dropdown-menu">
+              {% for lang_group in by_lang %}
+                {% if lang_group.name and lang_group.name != '' %}
+                  {% assign first_item = lang_group.items | first %}
+                  <li><a href="{{ base_path }}{{ first_item.url }}" class="{{ lang_group.name }}" {% if lang_group.name == page.lang %}aria-current="page"{% endif %}>{{ lang_group.name | upcase }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
+          {% endif %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+            <button type="button" aria-label="{{ site.data.ui-text[masthead_lang].theme_toggle_label | default: 'Toggle light or dark theme' }}"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true"></i></button>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -27,3 +70,37 @@
     </div>
   </div>
 </div>
+
+<script>
+// Handle dropdown menu interactions for touch devices and clicks
+document.addEventListener('DOMContentLoaded', function() {
+  const dropdowns = document.querySelectorAll('.has-dropdown');
+  
+  dropdowns.forEach(function(dropdown) {
+    const toggle = dropdown.querySelector('.dropdown-toggle');
+    
+    // Toggle dropdown on click
+    toggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      // Close other dropdowns
+      dropdowns.forEach(function(other) {
+        if (other !== dropdown) {
+          other.classList.remove('active');
+        }
+      });
+      
+      // Toggle this dropdown
+      dropdown.classList.toggle('active');
+    });
+  });
+  
+  // Close dropdowns when clicking outside
+  document.addEventListener('click', function() {
+    dropdowns.forEach(function(dropdown) {
+      dropdown.classList.remove('active');
+    });
+  });
+});
+</script>

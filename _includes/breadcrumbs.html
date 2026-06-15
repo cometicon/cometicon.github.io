@@ -1,5 +1,6 @@
 {% include base_path %}
 
+{% assign page_lang = page.lang | default: site.locale | default: 'en' %}
 {% case site.categories.type %}
   {% when "liquid" %}
     {% assign path_type = "#" %}
