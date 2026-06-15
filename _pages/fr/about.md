@@ -5,9 +5,6 @@ title: "Bienvenue 👋"
 author_profile: true
 layout: single_noshare
 lang: fr
-redirect_from:
-    - /
-    - /about
 ---
 
 
