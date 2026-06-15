@@ -1,7 +1,7 @@
 ---
 ref: about
 permalink: /fr
-title: "Hi there 👋"
+title: "Bienvenue 👋"
 author_profile: true
 layout: single_noshare
 lang: fr
@@ -11,9 +11,9 @@ redirect_from:
 ---
 
 
-<h3>🇬🇧 (🇫🇷👇) Unveiling biological forms with Computational Biology & Computational Imaging </h3>
+<h3>🇬🇧 (🇫🇷👇) Reconstruction des formes biologiques par vision par ordinateur et biologie computationelle </h3>
 
-<i>keywords: Computer Vision • Deep Learning • Digital Twins</i>
+<i>keywords: Vision par ordinateur • Apprentissage profond • Jumeaux numériques</i>
 
 Bienvenue sur ma page perso !
 

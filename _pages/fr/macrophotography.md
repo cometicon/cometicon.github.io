@@ -1,6 +1,11 @@
 ---
 permalink: /macrophotography/
 title: <i class="fas fa-camera"></i> La Macrophotographie
+ref: macrophotography
+lang: fr
+redirect_from:
+  - /en/macrophotography
+  - /macrophotography
 ---
 
 # WIP

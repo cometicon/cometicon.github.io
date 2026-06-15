@@ -1,6 +1,12 @@
 ---
-permalink: /phd/
+ref: phd
+permalink: /en/phd
+lang: en
 title: "PhD: Learning Scoliosis Patterns using Anatomical Models and Motion Capture"
+
+redirect_from:
+  - /phd
+  - /fr/phd
 ---
 
 

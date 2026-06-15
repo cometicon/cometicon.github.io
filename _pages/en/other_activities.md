@@ -1,5 +1,8 @@
 ---
-permalink: /other_activities/
+
+permalink: /en/other_activities
+ref: other_activities
+lang: en
 title: "Other activities"
 ---
 

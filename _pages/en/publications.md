@@ -1,8 +1,13 @@
 ---
 layout: archive
 title: "Contributions"
-permalink: /publications/
+lang: en
+ref: publications
+permalink: /en/publications/
 author_profile: true
+redirect_from:
+  - /publications
+  - /fr/publications
 ---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

@@ -1,6 +1,10 @@
 ---
-permalink: /drawings/
+permalink: /en/drawings
+lang: en
 title: "PhD drawings"
+redirect_from:
+  - /drawings
+  - /fr/drawings
 ---
 
 <p class="flotte">

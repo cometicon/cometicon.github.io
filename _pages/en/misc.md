@@ -1,10 +1,13 @@
 ---
 layout: archive
 title: "Other interests"
-permalink: /misc/
+permalink: /en/misc
+ref: misc
+lang: en
 author_profile: true
 redirect_from:
   - /misc
+  - /fr/misc
 ---
 
 {% include base_path %}

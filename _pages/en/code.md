@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Code"
-permalink: /code/
+
+permalink: /en/code
 author_profile: true
 redirect_from:
   - /code
+  - /fr/code
 ---
 
 {% include base_path %}

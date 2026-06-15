@@ -1,10 +1,10 @@
 ---
 ref: about
 permalink: /en
+lang: en
 title: "Hi there 👋"
 author_profile: true
 layout: single_noshare
-lang: en
 redirect_from:
     - /
     - /about
