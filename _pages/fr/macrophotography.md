@@ -14,13 +14,16 @@ redirect_from:
   <img src="/images/combi_photos.png" alt="Photos" style="width:100%; margin-bottom: 20px;">
 </div>
 
+{% include toc %}
+
+**WIP!!**
 
 ## La taille ça compte
 Je pense que nous sommes d'accord : la photographie est un art de production d'images. Elle consiste grossièrement à projeter sur une surface photosensible tout plein de choses dedans. Machinalement, ce qui est grand devient physiquement petit. On rapetisse le monde sur un capteur, il tient dans la poche, c’est charmant.
 
-La macrophotographie, c'est exactement l'inverse. Et c'est là la beauté de la chose : les détails discrets, voir invisibles à l’œil nu, sont révélés en GRAND.
+La macrophotographie, c'est exactement l'inverse. Et c'est là la beauté de la chose : les détails discrets, voire invisibles à l’œil nu, sont révélés en GRAND.
 
-Alors, attention, il y a un piège. Y’a les puristes qui vont vous dire : "Oh non, ça c’est de la proxiphotographie, pas de la macro...". Ils sont très investis dans la vie, ces gens-là. La différence ? Elle tient à un truc qu’ils appellent le "rapport de grandissement". Le Graal, c’est le 1:1. Ça veut dire que votre petite bête, sur le capteur, fait exactement la même taille qu’en vrai. C’est la règle d’or. Au dessous (genre 1:2), vous faites de la proxi, au dessus (genre 2:1) vous faites de la macro. C'est simple, c'est propre.
+Alors, attention, il y a un piège. Y’a les puristes qui vont vous dire : "Oh non, ça c’est de la proxiphotographie, pas de la macro...". Ils sont très investis dans la vie, ces gens-là. La différence ? Elle tient à un truc qu’ils appellent le "rapport de grandissement". Le Graal, c’est le 1:1. Ça veut dire que votre petite bête, sur le capteur, fait exactement la même taille qu’en vrai. C’est la règle d’or. Au-dessous (genre 1:2), vous faites de la proxi, au-dessus (genre 2:1) vous faites de la macro. C'est simple, c'est propre.
 
 Quoique...
 
@@ -55,10 +58,114 @@ Choisissez bien l'objectif: spécialisé macro, visez les focales qui promettent
 
 Des accessoires existent pour vous rapprocher du sujet. Ils pourraient transformer votre 18-55mm en kit par exemple en objectif proxi.
 
-Voire même!! Transformer votre objectif macro 1:1 en 2 voire 3:1 !!
+Ou même!! Transformer votre objectif macro 1:1 en 2 voire 3:1 !!
 
-- les bonnettes close-up 🔎 : voyez ça comme une loupe à fixer devant l'objectif. Les bonnettes les moins chères auront tendance à casser l'image avec des abérrations chromatiques dans tous les sens. Certaines marques vontr traiter leur lentille pour éviter ces phénomènes comme NiSi ou Raynox. Voici un test de bonnettes macro [là](https://www.photonumeric.fr/testraynox/).
-- les tubes allonges 🧻 : un tube à placer entre le boitier et l'objectif. Le principe est tout bête mais il change pas mal de choses. Attention à bien choisir les tubes en métal les plus solides. Je vois une facheuse manie à tout faire en plastique. De quoi céder rapidement sous le poids de l'objectif macro sur lesquels ils sont fixés... A noter que ces tubes, chers ou pas, diminuent la luminosité à l'image.
+- les bonnettes close-up 🔎 : voyez ça comme une loupe à fixer devant l'objectif. Les bonnettes les moins chères auront tendance à casser l'image avec des aberrations chromatiques dans tous les sens. Certaines marques vont traiter leur lentille pour éviter ces phénomènes comme NiSi ou Raynox. Voici un test de bonnettes macro [là](https://www.photonumeric.fr/testraynox/).
+- les tubes allonges 🧻 : un tube à placer entre le boitier et l'objectif. Le principe est tout bête mais il change pas mal de choses. Attention à bien choisir les tubes en métal les plus solides. Je vois une fâcheuse manie à tout faire en plastique. De quoi céder rapidement sous le poids de l'objectif macro sur lesquels ils sont fixés... A noter que ces tubes, chers ou pas, diminuent la luminosité à l'image.
 - les bagues d'inversion 🔄 : le plus difficile à manipuler, mais aussi le moins cher ! Fonctionne le mieux sur des focales courtes. Prenez votre objectif, inversez son sens. Au lieu de pointer vers le sujet il ira regarder le capteur. Cette méthode permet aussi de faire une bonnette macro en fixant votre objectif inversé devant un objectif avec une focale longue (100mm ou plus).
 
-## A venir: conseils et focus-stacking
+## ⚙️ Les difficultés...
+La macro c'est rigolo, mais il faut savoir ronger son frein. Je pense que l'on peut isoler 3 ennemis qu'il faut savoir prévenir:
+- la profondeur de champ
+- le mouvement
+- la lumière
+
+Mais je pense que la lumière est le premier élément à comprendre, car il explique les deux premiers.
+### La lumière
+Tout est une histoire de quantité. En photographie classique, toute la lumière d'une scène est amenée à être tassée sur une petite surface, votre capteur. Mais en macro, c'est l'inverse, on va projeter ce qui est vu dans une surface en théorie plus grande. 
+En somme, plus vous capturez quelque chose de petit, moins vous capturez de lumière.
+
+Il y a donc 4 façons de corriger ce manque de lumière, c.-à-d., de corriger l'exposition:
+- Ouvrir le diaphragme, ce qui a pour effet d'augmenter la lumière et de réduire la profondeur de champ (retenez bien ça)
+- réduire la vitesse d'exposition, ce qui a pour effet d'augmenter la lumière et d'augmenter le flou de mouvement (retenez bien ça)
+- augmenter la valeur ISO, ce qui a pour effet, vous l'avez deviné, d'éclaircir l'image, mais aussi de rajouter du grain à l'image (le bruit) et d'enlever du piqué.
+- le flash. Paf votre sujet est plus lumineux mais ça transforme radicalement votre ambiance.
+
+Vous la sentez venir la douille : ces solutions viennent avec des contraintes...
+
+### La profondeur de champ
+Le saviez-vous ? Plus vous vous rapprochez du sujet, plus la profondeur de champ diminue. 
+La solution qui viendra automatiquement pour un photographe sera de fermer le diaphragme.
+
+> Mais il y aura moins de lumière ? (cf au-dessus)
+
+Oui, donc il faudra jouer avec l'ISO et la vitesse d'obturation.
+
+Mais ce n'est pas fini.
+
+La profondeur de champ augmente, certes, mais pas follement. Et en PLUS! Il se trouve qu'à l'intérieur de ce champ, la netteté s'évapore...
+
+Ce problème est dû à un phénomène de diffraction de la lumière. Les rayons lumineux, au lieu de converger vers le même pixel de votre capteur, vont s'inviter chez les voisins.
+
+En d'autres termes, ça fait du flou. Je détaillerai cela dans un article prochainement.
+
+### Le mouvement
+
+Alors là, c'est un autre drame. Imaginez, vous photographiez une bébête de 2 mm, si elle bouge de 1mm vous avez tout qui est flou.
+Et il n'y a pas seulement votre sujet qui peut bouger.
+
+Le support, à cause du vent.  
+Votre appareil photo au déclenchement (selon l'obturateur)  
+Et tout particulièrement... Vous-même.  
+
+Car à moins d'être dans un état de maîtrise totale du tremblement (la mort je crois), vous tremblez de partout. Les battements de votre cœur, votre respiration, les micro-mouvements musculaires... 
+
+Alors, il faut augmenter la vitesse d'obturation. La recommandation - que je croise de temps en temps – est que cette vitesse doit être l'inverse de deux fois votre longueur focale.
+$t_{min} (s) = \frac{1}{2f}$. 
+
+Ça marche plutôt bien à condition de bien maîtriser ses mouvements. Sinon, augmentez-la.
+
+> Mais il y aura moins de lumière ? (cf au-dessus)
+
+Oui, donc il faudra jouer avec l'ISO et l'ouverture.
+
+### L'ISO une solution à tout ?
+Alors si vous avez bien lu, il n'y a qu'un seul paramètre qui permette de gagner de la lumière quand on l'augmente : la sensibilité ISO.
+
+Plus il augmente, plus vous amplifiez le signal lumineux reçu. Joie !
+
+Oui mais.
+
+Plus il augmente, plus vous êtes sensibles au bruit. Ah.
+
+Ce bruit, dû aux composants électroniques du capteur, va être amplifié au détriment du signal lumineux. Cela ajoute des grains assez vilains à l'image. Mais pas que, le piqué est réduit.
+
+Dans une image riche en détails comme en proxi, ce bruit n'est pas trop gênant. Mais en macro, quand on a le nez dans ces détails, là, c'est plutôt vilain.
+> Bon bah il faut ouvrir le diaphragme ou baisser la vitesse d'obturation
+
+Oui, voilà. Pas simple.
+
+### Et le flash ???
+Bon quand il n'y a pas d'autres solutions, ou que l'on veut "sculpter la lumière" vous diront les photographes sensibles entre deux thés matcha équitables, il y a...
+
+Pas de suspense si vous avez lu le titre puisqu'on va parler...
+
+Flash.
+
+Il en existe sous différentes formes, Cobra, annulaires, etc. Et même des lumières LED plutôt intéressantes.
+
+Mais je ne trouve pas que ces solutions en soient justement pour *améliorer* l'exposition naturelle d'une scène... 
+
+Voyez cela comme l'intrusion d'un deuxième soleil dans votre panorama. L'ambiance lumineuse va radicalement changer.
+
+En bref, la flashouillerie (TM) est un art qui exige de la subtilité...
+
+Votre arrière-plan est trop lumineux ? Paf ! Flash (tout doux) sur le sujet pour équilibrer tout ça.
+
+Vous voulez un fond noir ? Paf ! Flash sur le sujet (vachement fort), on ne voit que lui ! Bon dans ce cas de figure, la subtilité est aussi fine qu'un clip d'Afida Turner. Mais ça fonctionne plutôt bien.
+
+Seulement, le flash est une lumière directe très dure. On peut la modifier avec des réflecteurs intelligemment placés autour de votre scène ou du sujet. Mais on peut aussi l'adoucir avec un diffuseur. C'est cette dernière solution, plus simple et plus rapide qui est le plus souvent retenue par les collègues photographes.
+
+
+
+## À venir: le focus stacking
+
+
+
+
+
+
+
+
+
+
