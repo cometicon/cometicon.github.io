@@ -39,9 +39,6 @@ Bref, juger de l'agrandissement à partir de la photo seule, est très difficile
 
 Vous me direz que c'est du détail tout ça, et vous avez raison. Mais ils sont nombreux ces personnages un peu bavards, dépassés par le temps, qui vont vous coller une amende à la nomenclature.
 
-> C'est pas de la macro, c'est de la proxi...  
-\- Pierre-Edouard, sur un commentaire Facebook
-
 Vraiment nombreux.
 
 Vous saurez quoi leur répondre.
@@ -54,7 +51,7 @@ J'ai tendance à dire que pour débuter, un smartphone avec une lentille *close-
 
 ### 📷 L'APN monté pour la macro
 Pour monter de beaux clichés, vous vous en doutez, il n'y a qu'une seule solution : un objectif spécialisé sur un boîtier photo (reflex ou hybride)...
-Choisissez bien l'objectif: spécialisé macro, visez les focales entre 50mm et 105mm qui promettent de dépasser (ou atteindre) le fameux rapport de 1:1. C’est le ticket d’entrée pour ne pas finir frustré.
+Choisissez bien l'objectif: spécialisé macro, visez les focales qui promettent de dépasser (ou atteindre) le fameux rapport de 1:1. C’est le ticket d’entrée pour ne pas finir frustré.
 
 Des accessoires existent pour vous rapprocher du sujet. Ils pourraient transformer votre 18-55mm en kit par exemple en objectif proxi.
 
