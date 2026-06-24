@@ -27,13 +27,20 @@ Quoique...
 En fait, pas du tout.
 
 ## 🧟 La théorie, on s'en tamponne un peu
-Le truc, c'est qu'en pratique, on juge une photo à son rendu, pas à sa fiche technique. Et c'est là que le "zbeul" commence : le facteur de recadrage. Un rapport 1:1 sur un capteur moyen format (très grand) ne donnera pas le même résultat visuel qu'un 1:1 sur un capteur APS-C (petit). Ajoutez à cela la définition folle des capteurs actuels qui permet de recadrer dans l'image, et vous comprenez pourquoi la théorie devient vite relative.
+Le truc, c'est qu'en pratique, on juge une photo à son rendu, pas à sa fiche technique. 
+
+Et c'est là que le *zbeul* commence : le facteur de recadrage. Un rapport 1:1 sur un capteur moyen format (très grand) ne donnera pas le même résultat visuel qu'un 1:1 sur un capteur APS-C (petit). Ajoutez à cela la définition folle des capteurs actuels qui permet de recadrer dans l'image, et vous comprenez pourquoi la théorie devient vite relative.
 
 Quelle solution ?
 
 On peut se la raconter en parlant d’"agrandissement apparent" par rapport au plein format 35mm. C’est sobre, et ça résout notre problème. Après, entre nous, je n'ai jamais croisé personne sur le terrain, en train de ramper dans la boue pour photographier un scarabée, qui se balade avec une règle pour calculer le rapport au millimètre près. On est là pour s'amuser, non ?
 
-C'est du détail tout ça, vous avez raison. Mais ils sont nombreux ces personnages un peu bavards, dépassés par le temps, qui vont vous coller une amende à la nomenclature avec un commentaire éclaté (vous savez, ceux qui finissent par des petits points de suspension?).
+Bref, juger de l'agrandissement à partir de la photo seule, est très difficile.
+
+Vous me direz que c'est du détail tout ça, et vous avez raison. Mais ils sont nombreux ces personnages un peu bavards, dépassés par le temps, qui vont vous coller une amende à la nomenclature.
+
+> C'est pas de la macro, c'est de la proxi...  
+\- Pierre-Edouard, sur un commentaire Facebook
 
 Vraiment nombreux.
 

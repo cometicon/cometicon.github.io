@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-<h3>🇬🇧 (🇫🇷👇) Unveiling biological forms with Computational Biology & Computational Imaging </h3>
+<h3>🇬🇧 Unveiling biological forms with Computational Biology & Computational Imaging </h3>
 
 <i>keywords: Computer Vision • Deep Learning • Digital Twins</i>
 
