@@ -16,7 +16,7 @@ redirect_from:
 
 {% include toc %}
 
-**WIP!!**
+Vous trouverez l'ensemble de mes clichés et posts sur ma page Instagram : https://www.instagram.com/cometicon.macros/
 
 ## La taille ça compte
 Je pense que nous sommes d'accord : la photographie est un art de production d'images. Elle consiste grossièrement à projeter sur une surface photosensible tout plein de choses dedans. Machinalement, ce qui est grand devient physiquement petit. On rapetisse le monde sur un capteur, il tient dans la poche, c’est charmant.

@@ -1,14 +1,12 @@
 ---
 ref: about
 permalink: /fr
-title: "Nicolas Comte - R&D Engineer · PhD in Computer Science"
+title: "Bienvenue 👋"
 author_profile: true
 layout: single_noshare
 lang: fr
 ---
 
-
-<h3>🇫🇷 Intelligence artificielle · Vision par ordinateur 3D · Imagerie médicale</h3>
 
 <i>mots-clés : Vision par ordinateur • Deep Learning • Jumeaux numériques</i>
 
