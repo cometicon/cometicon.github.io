@@ -18,7 +18,7 @@ Please find my *curriculum vitae* (short versions):
 - english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
 - french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
-Last update: 04/06/2026
+Last update: 21/09/2026
 
 ## <i class="fas fa-graduation-cap"></i> Education
 - **2023** Doctoral degree in Computer Science at Université Grenoble-Alpes (France)  

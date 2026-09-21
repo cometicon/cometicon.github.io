@@ -13,7 +13,7 @@ Please find my *curriculum vitae* (short versions):
 - english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
 - french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
-Last update: 04/06/2026
+Last update: 21/19/2026
 
 ## <i class="fas fa-graduation-cap"></i> Education
 - **2023** Doctoral degree in Computer Science at Université Grenoble-Alpes (France)  
@@ -23,7 +23,8 @@ Last update: 04/06/2026
 
 ## <i class="fas fa-briefcase"></i> Experience
 - **2025--** Research engineer at Circle Dental (France)
-  * Machine-Learning/AI team, Agile facilitator/Product Owner/Dev  
+  * Machine-Learning/AI team, 
+  * Agile facilitator/Product Owner/Dev  
   * Development of software applications for the creation of IOS digital twins from 3D surface analysis and deep learning methods.
 
 - **2023-2025** Research engineer at Anatoscope (France)  
