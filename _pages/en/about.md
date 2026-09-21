@@ -2,7 +2,7 @@
 ref: about
 permalink: /en
 lang: en
-title: "Hi there 👋"
+title: "Nicolas Comte - R&D Engineer · PhD in Computer Science"
 author_profile: true
 layout: single_noshare
 redirect_from:
@@ -11,18 +11,22 @@ redirect_from:
 ---
 
 
-<h3>🇬🇧 Unveiling biological forms with Computational Biology & Computational Imaging </h3>
+<h3>🇬🇧 
+Artificial Intelligence · 3D Computer Vision · Medical Imaging </h3>
 
 <i>keywords: Computer Vision • Deep Learning • Digital Twins</i>
 
-Welcome to my personal page!
+I am a Research & Development Engineer and PhD in Computer Science working at the intersection of artificial intelligence, 3D computer vision, medical imaging and scientific computing.
 
+My work focuses on developing computational methods to analyze, reconstruct and model complex 3D data, combining machine learning, deep learning, geometric modeling and simulation.
 
-<i class="fas fa-user"></i>
-My work focuses on reconstructing living forms throu    gh computational tools, bridging the gap between scientific precision and visual exploration.
+During my PhD at Université Grenoble Alpes, in collaboration with Inria, Anatoscope and Grenoble Alpes Hospitals, I worked on the analysis of scoliosis using anatomical models and motion capture data. This research involved 3D reconstruction, multimodal data analysis, biomechanical modeling and machine learning.
 
+Today, at [Circle](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circle.dental/&ved=2ahUKEwjF6vr78_-WAxX4g_0HHRITGKMQFnoECBIQAQ&usg=AOvVaw1Wm2hFQU_5YvAWcUus3Y2s), I work on AI and 3D technologies for digital dentistry, developing methods that bridge research and [real-world applications](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circle.dental/&ved=2ahUKEwjF6vr78_-WAxX4g_0HHRITGKMQFnoECBIQAQ&usg=AOvVaw1Wm2hFQU_5YvAWcUus3Y2s).
 
-<i class="fas fa-briefcase"></i> Professionally, I am a research engineer specializing in surface reconstruction and digital twins. I hold a PhD in Computer Science and an engineering degree in Computational Biology. More details with my [CV](/cv)
+I enjoy working on challenging problems where scientific research, algorithms and software engineering come together, from understanding a problem and designing a computational approach to building a robust solution.
 
+---
+**Selected topics**:
 
-<i class="fas fa-camera"></i> In my creative practice, I explore extreme macrophotography. By applying computational reconstruction techniques, I aim to unveil the intricate, hidden geometry of the microscopic world. More details [here](/macrophotography)
+3D Computer Vision · Machine Learning · Deep Learning · Medical Imaging · Geometric Modeling · Biomechanics · Simulation · Scientific Computing
