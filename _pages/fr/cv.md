@@ -22,7 +22,7 @@ Last update: 18/10/2026
 
 
 ## <i class="fas fa-briefcase"></i> Experience
-- **2025--** Research engineer at Circle Dental (France)
+- **2025-2026** Research engineer at Circle Dental (France)
   * Machine-Learning/AI team, 
   * Agile facilitator/Product Owner/Dev  
   * Development of software applications for the creation of IOS digital twins from 3D surface analysis and deep learning methods. Following MLOps principles.
