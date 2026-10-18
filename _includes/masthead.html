@@ -9,7 +9,7 @@
         <ul class="visible-links">
           {% assign page_lang = page.lang | default: 'en' %}
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/{{ page_lang }}/">{{ site.title }}</a>
+            <a href="{{ base_path }}/{{ page_lang }}">{{ site.title }}</a>
           </li>
           {% assign nav_file = 'navigation-' | append: page_lang %}
           {% assign nav_data = site.data[nav_file] %}
