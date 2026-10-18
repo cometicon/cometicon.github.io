@@ -9,6 +9,7 @@ redirect_from:
   - /fr/phd
 ---
 
+You can find my PhD manuscript here : https://theses.hal.science/tel-04594309
 
 ## Summary of the project
 In our research, we employ various techniques to digitize the human body creating digital twins of individuals with spinal deformities. Our project focuses on patients with Adolescent Idiopathic Scoliosis (AIS), characterized by deformities that evolve during adolescence.
@@ -53,6 +54,8 @@ An other challenge is to reduce the patient's X-ray exposure during both the dia
 
 ## Publications/Communications
 Communications related to my works in the [Contributions section](/publications/)
+
+PhD manuscript: https://theses.hal.science/tel-04594309
 
 ## Figures
 Several figures have been designed to facilitate communication regarding idiopathic scoliosis, its monitoring, and our contributions. I am sharing some of them [here](/drawings/).
