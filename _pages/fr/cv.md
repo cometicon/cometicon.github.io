@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Curriculum vitae"
-permalink: /fr/cv/
+permalink: /fr/cv
 lang: fr
 author_profile: true
 redirect_from:
   - /resume
-  - /french/cv/
+  - /fr/cv/
 ---
 
 {% include base_path %}
