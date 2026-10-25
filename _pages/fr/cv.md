@@ -6,6 +6,7 @@ lang: fr
 author_profile: true
 redirect_from:
   - /resume
+  - /fr/cv
   - /fr/cv/
 ---
 
