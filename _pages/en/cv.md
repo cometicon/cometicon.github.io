@@ -18,27 +18,39 @@ Please find my *curriculum vitae* (short versions):
 - english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
 - french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
-Last update: 18/10/2026
+Last update: 25/10/2026
+
+## <i class="fas fa-user"></i> Profile
+R&D Engineer & Computer Science Ph.D. specializing in Deep Learning and computer vision in medical imaging.  
+Combining expertise in research, engineering, and Agile methodologies, I design and conduct deep learning, modeling, and simulation projects.
+
 
 ## <i class="fas fa-graduation-cap"></i> Education
-- **2023** Doctoral degree in Computer Science at Université Grenoble-Alpes (France)  
-- **2016** Engineer's degree in Bioinformatics and modelling at Insa Lyon (France)   
-- **2013** Bachelor's degree in Biology, Bioinformatics at Université de Lyon (France)   
+- **2020-2023** Doctoral degree in Computer Science at Université Grenoble-Alpes (France)  
+  * Thesis title: *Learning scoliosis patterns using anatomical models and motion capture*
+- **2013-2016** Engineer's degree in Bioinformatics and modelling at Insa Lyon (France)   
+- **2010-2013** Bachelor's degree in Biology, Bioinformatics at Université de Lyon (France)   
 
 
 ## <i class="fas fa-briefcase"></i> Experience
-- **2025-2026** Research engineer at Circle Dental (France)
-  * Machine-Learning/AI team, Agile facilitator/Product Owner/Dev  
-  * Development of software applications for the creation of IOS digital twins from 3D surface analysis and deep learning methods. Working according to MLOps development practices.
-
-- **2023-2025** Research engineer at Anatoscope (France)  
-  * Development of software applications for the creation of human digital twins from 3D surface analysis and deep learning methods.
+- **2025-2026** R&D engineer at Circle Dental (France)
+- **2024-2025** R&D engineer at Anatoscope for Circle Dental (France)
+  * Designed, trained, and deployed deep learning models for automated analysis of 3D intraoral scans (IOS)
+  * Maintained continuous technology watch, designed architectures, and selected implementation methods
+  * Built and deployed end-to-end MLOps pipelines for automated model retraining and deployment
+  * Implemented CI/CD workflows for ML models and performed code reviews, preventing regressions and ensuring code quality
+  * Optimized 3D data pipelines for commercial software integration
+  * Acted as Agile facilitator and developer, handling task breakdown, value assignment, and prioritization
 
 - **2019-2023** R&D engineer, Ph.D student at Anatoscope, Inria team Morpheo (France)  
   * Ph.D project (CIFRE) between Anatoscope, Inria team Morpheo and Grenoble Hospital. More details in the page [PhD](/phd/). I've also been involved in industrial projects.
+  * Industrial R&D: conducted joint research on medical image processing, 3D anatomical modeling, and simulation of scoliotic spines
+  * Algorithm design: developed novel machine learning methods integrating motion capture data into 3D structural spine models
+  * Impact & awards: published research (see [Publications](#publications)) and won the Best Poster Award in AI for Biomedical Imaging (IABM 2023)
 
-- **2017-2018** Software engineer at Inria team Beagle (France)  
-  * Creation of [Treerecs](https://project.inria.fr/treerecs) and [Seaview 5.0](https://doua.prabi.fr/software/seaview), fast and easy-to-use software applications in molecular phylogeny
+- **2016-2018** Software engineer at Inria team Beagle (France)  
+  * Engineered and implemented fast, open-source C++/Python scientific applications for molecular phylogeny: [Treerecs](https://project.inria.fr/treerecs) and [Seaview 5.0](https://doua.prabi.fr/software/seaview) (> 300 citations)
+  * Co-supervision of 2 interns (engineering school and BTS vocational degree on Programming)
   * Teaching C++ programming at Insa Lyon (48h)
 
 - **2015-2016** Internships (France)  
@@ -50,13 +62,13 @@ Last update: 18/10/2026
   * We won two awards: the Gold Medal and Best Composite Part
 
 ## <i class="fas fa-tasks"></i> Skills
-- **Computer science**: machine learning, deep learning, parallel computing, artificial life  
-- **Programming**: C, C++, Python, Git  
-- **Scientific computing**: R, Python (Pytorch, Scikit-learn), Sofa 
-- **Communication**: LaTeX, Markdown, HTML, Gimp, Krita, Inkscape, RevealJS
-
-In my spare time, I'm learning new languages. I'm currently beginner with: Rust, Julia, CSS and Typst  
-I also worked with some languages, however I'm not using them anymore: Matlab, SAS, Java and PHP.
+- **Machine learning**: deep learning, computer vision, 3D mesh processing, 2D/3D medical imaging analysis, motion capture (Mocap), model architecture design  
+- **MLOps & engineering practices**: end-to-end ML pipelines, automated model retraining and deployment, CI/CD for ML models, code review, Git, Agile methodology  
+- **Programming**: Python, C++, C  
+- **Frameworks & tools**: PyTorch, Scikit-learn, Sofa (simulation), R, Matlab  
+- **Domain expertise**: medical imaging, 3D anatomical modeling, digital twins, simulation, artificial life  
+- **Communication**: LaTeX, Markdown, HTML, Gimp, Krita, Inkscape, RevealJS  
+- **Languages**: French (native), English (C1)  
 
 
 ## <i class="fas fa-file"></i> Publications
@@ -64,7 +76,7 @@ I also worked with some languages, however I'm not using them anymore: Matlab, S
 
 
 ## <i class="fas fa-award"></i> Awards
-- **2023**: *Best Poster* at [*IABM 2023*](https://iabm2023.sciencesconf.org), the national symposium in AI applied in medical imaging  
+- **2023**: *Best Poster* in artificial intelligence applied in biomedical imaging at [*IABM 2023*](https://iabm2023.sciencesconf.org), the national symposium in AI applied in medical imaging (*Colloque National en Intelligence Artificielle en Imagerie Biomédicale*)  
 - **2014**: *Gold Medal* and *Best Composite Part* for our team [Curly'On](https://2014.igem.org/Team:INSA-Lyon) at the *iGEM competition 2014*, International Genetically Engineered Machine competition (Synthetic Biology)  
   
   
@@ -81,8 +93,7 @@ I also worked with some languages, however I'm not using them anymore: Matlab, S
 
 
 ## <i class="fas fa-palette"></i> Hobbies
-- Nature and wildlife photography: [here](/macrophotography)
-- Drawing and digital painting: [here](/other_activities)
+- Graphics: infographics, illustration, drawing and digital painting: [here](/other_activities)
+- Photography: nature and wildlife, hyper/macrophotography: [here](/macrophotography) (@cometicon.macros)
 - Scientific communication and mediation
-- Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15">
-
+- Programming: <img src="/images/logo_cpp.png" width="15" height="15">, <img src="/images/logo_python.png" width="15" height="15"> various side projects in simulation and artificial life
