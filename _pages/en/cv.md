@@ -7,7 +7,7 @@ lang: en
 author_profile: true
 redirect_from:
   - /resume
-  - /cv
+  - /en/cv/
 ---
 
 {% include base_path %}
