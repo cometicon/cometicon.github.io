@@ -31,8 +31,8 @@ Combining expertise in research, engineering, and Agile methodologies, I design 
 
 
 ## <i class="fas fa-briefcase"></i> Experience
-- **2025-2026** R&D engineer at Circle Dental (France)
-- **2024-2025** R&D engineer at Anatoscope for Circle Dental (France)
+- **2025-2026** R&D engineer at [Circle Dental](https://www.circle.one/) (France)
+- **2024-2025** R&D engineer at [Anatoscope](http://morpheo.inrialpes.fr/) for [Circle Dental](https://www.circle.one/) (France)
   * Designed, trained, and deployed deep learning models for automated analysis of 3D intraoral scans (IOS)
   * Maintained continuous technology watch, designed architectures, and selected implementation methods
   * Built and deployed end-to-end MLOps pipelines for automated model retraining and deployment
@@ -40,11 +40,11 @@ Combining expertise in research, engineering, and Agile methodologies, I design 
   * Optimized 3D data pipelines for commercial software integration
   * Acted as Agile facilitator and developer, handling task breakdown, value assignment, and prioritization
 
-- **2019-2023** R&D engineer, Ph.D student at Anatoscope, Inria team Morpheo (France)  
+- **2019-2023** R&D engineer, Ph.D student at [Anatoscope](http://morpheo.inrialpes.fr/), [Inria team Morpheo](https://morpheo.inrialpes.fr) (France)  
   * Ph.D project (CIFRE) between Anatoscope, Inria team Morpheo and Grenoble Hospital. More details in the page [PhD](/phd/). I've also been involved in industrial projects.
   * Industrial R&D: conducted joint research on medical image processing, 3D anatomical modeling, and simulation of scoliotic spines
   * Algorithm design: developed novel machine learning methods integrating motion capture data into 3D structural spine models
-  * Impact & awards: published research (see [Publications](#publications)) and won the Best Poster Award in AI for Biomedical Imaging (IABM 2023)
+  * Impact & awards: published research (see [Publications](#publications)) and won the Best Poster Award in AI for Biomedical Imaging ([IABM 2023](https://iabm2023.sciencesconf.org/))
 
 - **2016-2018** Software engineer at Inria team Beagle (France)  
   * Engineered and implemented fast, open-source C++/Python scientific applications for molecular phylogeny: [Treerecs](https://project.inria.fr/treerecs) and [Seaview 5.0](https://doua.prabi.fr/software/seaview) (> 300 citations)

@@ -29,9 +29,9 @@ Alliant une double expertise en recherche et en ingénierie ainsi qu'une maîtri
 - **2010-2013** Licence en Biologie et Bio-informatique à l'Université de Lyon (France)   
 
 ## <i class="fas fa-briefcase"></i> Expérience
-- **2025-2026** Ingénieur R&D chez Circle Dental (France)
+- **2025-2026** Ingénieur R&D chez [Circle Dental](https://www.circle.dental/) (France)
 
-- **2024-2025** Ingénieur R&D chez Anatoscope pour Circle Dental (France)
+- **2024-2025** Ingénieur R&D chez [Anatoscope](https://www.anatoscope.com/) pour [Circle Dental](https://www.circle.dental/) (France)
 
   * Conception, entraînement et déploiement de modèles de deep learning pour l'analyse automatisée de scans 3D intraoraux
   * Maintien d'une veille technologique continue, conception d'architectures et sélection des méthodes d'implémentation
@@ -40,7 +40,7 @@ Alliant une double expertise en recherche et en ingénierie ainsi qu'une maîtri
   * Optimisation des pipelines de données 3D pour l'intégration logicielle commerciale
   * Rôle de facilitateur Agile et de développeur : découpage des tâches, attribution de la valeur et priorisation
 
-- **2019-2023** Ingénieur R&D, Doctorant chez Anatoscope, équipe Inria Morpheo (France)  
+- **2019-2023** Ingénieur R&D, Doctorant chez [Anatoscope](https://www.anatoscope.com/), [équipe Inria Morpheo](https://morpheo.inrialpes.fr) (France)  
 
   * Projet de doctorat (CIFRE) entre Anatoscope, l'équipe Inria Morpheo et le CHU de Grenoble. Plus de détails sur la page [Doctorat](/phd/). J'ai également été impliqué dans des projets industriels.
   * R&D industrielle : conduite de recherches conjointes sur le traitement d'images médicales, la modélisation anatomique 3D et la simulation de colonnes vertébrales scoliotiques
