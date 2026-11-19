@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nicolas Comte"
 title_separator          : "-"
 name                     : &name "Nicolas Comte"
-description              : &description "Computational Imaging -- Computational Biology"
+description              : &description "Machine learning Engineer, PhD | Computer Vision 2D/3D"
 url                      : https://cometicon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cometicon/cometicon.github.io"
