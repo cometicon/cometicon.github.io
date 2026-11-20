@@ -15,7 +15,7 @@ Vous trouverez mon *curriculum vitae* ici:
 - anglais [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
 - français [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
-Dernière mise à jour: 25/10/2026
+Dernière mise à jour: 20/11/2026
 
 ## <i class="fas fa-user"></i> Profil
 Ingénieur R&D et Docteur en Informatique spécialisé en Deep Learning et vision par ordinateur en imagerie médicale.

@@ -16,7 +16,7 @@ Please find my *curriculum vitae* (short versions):
 - english [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_en.pdf)  
 - french [<i class="fas fa-file-pdf"></i>](/files/ncomte_resume_fr.pdf)
 
-Last update: 25/10/2026
+Last update: 20/11/2026
 
 ## <i class="fas fa-user"></i> Profile
 R&D Engineer & Computer Science Ph.D. specializing in Deep Learning and computer vision in medical imaging.  
