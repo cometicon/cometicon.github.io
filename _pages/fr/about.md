@@ -37,3 +37,8 @@ En bref, j’aime travailler sur des problématiques complexes à l’interface 
 **Sujets principaux :**
 
 Vision par ordinateur 3D · Apprentissage automatique · Deep Learning · MLOps · Imagerie médicale · Jumeaux numériques · Modélisation géométrique · Biomécanique · Simulation · Calcul scientifique
+
+---
+**En dehors du travail :**
+
+Je pratique aussi la macrophotographie. Je partage mon travail sur Instagram ([@cometicon.macros](https://instagram.com/cometicon.macros)), et il a été présélectionné (shortlisted) à la huitième édition du concours [Close-up Photographer of the Year](https://www.cupoty.com/) (CUPOTY 8). Plus d'images sur la [page macrophotographie](https://cometicon.github.io/fr/macrophotography).

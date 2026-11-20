@@ -38,3 +38,8 @@ I enjoy working on challenging problems where scientific research, algorithms an
 **Selected topics**:
 
 3D Computer Vision · Machine Learning · Deep Learning · MLOps · Medical Imaging · Digital Twins · Geometric Modeling · Biomechanics · Simulation · Scientific Computing
+
+---
+**Beyond work**:
+
+I am also a macro photographer. I share my work on Instagram ([@cometicon.macros](https://instagram.com/cometicon.macros)), and it was shortlisted in the eighth [Close-up Photographer of the Year](https://www.cupoty.com/) competition (CUPOTY 8). More on the [macrophotography page](https://cometicon.github.io/en/macrophotography).
