@@ -88,10 +88,9 @@ analytics:
 author:
   name             : "Nicolas Comte"
   avatar           : "ncomte.jpg"
-  bio              : "R&D Engineer, PhD<br>
-                      3D medical imaging | AI-assisted biomechanical analysis"
-  location         : "Grenoble, France"
-  employer         : "Circle Dental"
+  bio              : "Machine Learning Engineer | Deep Learning | 3D Computer Vision | PhD"
+  location         : "France"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=OqDSwDEAAAAJ&hl=fr"
   email            : "nicolas.comte1@gmail.com"
