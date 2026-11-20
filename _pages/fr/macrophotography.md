@@ -18,7 +18,7 @@ redirect_from:
 
 Vous trouverez l'ensemble de mes clichés et posts sur ma page Instagram : https://www.instagram.com/cometicon.macros/
 
-## La taille ça compte
+## Une histoire de taille
 Je pense que nous sommes d'accord : la photographie est un art de production d'images. Elle consiste grossièrement à projeter sur une surface photosensible tout plein de choses dedans. Machinalement, ce qui est grand devient physiquement petit. On rapetisse le monde sur un capteur, il tient dans la poche, c’est charmant.
 
 La macrophotographie, c'est exactement l'inverse. Et c'est là la beauté de la chose : les détails discrets, voire invisibles à l’œil nu, sont révélés en GRAND.
@@ -29,7 +29,7 @@ Quoique...
 
 En fait, pas du tout.
 
-## 🧟 La théorie, on s'en tamponne un peu
+## La théorie, on s'en tamponne un peu
 Le truc, c'est qu'en pratique, on juge une photo à son rendu, pas à sa fiche technique. 
 
 Et c'est là que le *zbeul* commence : le facteur de recadrage. Un rapport 1:1 sur un capteur moyen format (très grand) ne donnera pas le même résultat visuel qu'un 1:1 sur un capteur APS-C (petit). Ajoutez à cela la définition folle des capteurs actuels qui permet de recadrer dans l'image, et vous comprenez pourquoi la théorie devient vite relative.
